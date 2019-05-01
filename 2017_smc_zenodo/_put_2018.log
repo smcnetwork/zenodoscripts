@@ -1,0 +1,2538 @@
+Accessing API...
+Status: 200
+Traversing all .bib directories, uploading all papers (2018-09-20 13:50:58)...
+('_DATA_/SMC Conference 2018/SMC Conference 2018.bib', True)
+--- 0001 ---------------------( 2018-09-20 13:50:58 )
+{'filename': 'smc_2018_001.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_001.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Claude Cadoz'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Concepts and Technologies for Multisensory and '
+                       'Interactive Simulation of Physical Objects - '
+                       'Application to Helios, a musical and visual artwork '
+                       'for the Helicanthe Platform of the ACROE',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422493
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_001.pdf'...
+201
+--- 0002 ---------------------( 2018-09-20 13:57:39 )
+{'filename': 'smc_2018_002.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_002.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Emma Frid'},
+                           {'name': 'Roberto Bresin'},
+                           {'name': 'Simon Alexandersson'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Perception of Mechanical Sounds Inherent to '
+                       'Expressive Gestures of a NAO Robot - Implications '
+                       'for Movement Sonification of Humanoids',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422499
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_002.pdf'...
+201
+--- 0003 ---------------------( 2018-09-20 13:58:02 )
+{'filename': 'smc_2018_003.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_003.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Joe Fitzpatrick'},
+                           {'name': 'Flaithri Neff'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Stream Segregation: Utilizing Harmonic Variance in '
+                       'Auditory Graphs',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422501
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_003.pdf'...
+201
+--- 0004 ---------------------( 2018-09-20 13:58:13 )
+{'filename': 'smc_2018_004.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_004.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Mitsuyo Hashida'},
+                           {'name': 'Eita Nakamura'},
+                           {'name': 'Haruhiro Katayose'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'CrestMusePEDB 2nd EDITION: MUSIC PERFORMANCE '
+                       'DATABASE WITH PHRASE INFORMATION',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422503
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_004.pdf'...
+201
+--- 0005 ---------------------( 2018-09-20 13:59:05 )
+{'filename': 'smc_2018_005.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_005.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Zuzana Cenkerova'},
+                           {'name': 'Martin Hartmann'},
+                           {'name': 'Petri Toiviainen'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Crossing Phrase Boundaries in Music',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422505
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_005.pdf'...
+201
+--- 0006 ---------------------( 2018-09-20 13:59:14 )
+{'filename': 'smc_2018_006.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_006.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Hugo Scurto'},
+                           {'name': 'Frédéric Bevilacqua'},
+                           {'name': 'Baptiste Caramiaux'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Perceiving Agent Collaborative Sonic Exploration in '
+                       'Interactive Reinforcement Learning',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422507
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_006.pdf'...
+201
+--- 0007 ---------------------( 2018-09-20 13:59:40 )
+{'filename': 'smc_2018_007.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_007.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Federico Fontana'},
+                           {'name': 'Federico Avanzini'},
+                           {'name': 'Stefano Papetti'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Evidence of Lateralization Cues in Grand and '
+                       'Upright Piano Sounds',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422510
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_007.pdf'...
+201
+--- 0008 ---------------------( 2018-09-20 14:00:10 )
+{'filename': 'smc_2018_008.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_008.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Erik Sikström'},
+                           {'name': 'Michele Geronazzo'},
+                           {'name': 'Jari Kleimola'},
+                           {'name': 'Federico Avanzini'},
+                           {'name': 'Amalia de Götzen'},
+                           {'name': 'Stefania Serafin'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Virtual Reality Exploration with Different '
+                       'Head-Related Transfer Functions',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422512
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_008.pdf'...
+201
+--- 0009 ---------------------( 2018-09-20 14:00:22 )
+{'filename': 'smc_2018_009.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_009.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Jan-Torsten Milde'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'A system for spacial audio using synchronized '
+                       'mobile devices',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422514
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_009.pdf'...
+201
+--- 0010 ---------------------( 2018-09-20 14:01:16 )
+{'filename': 'smc_2018_010.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_010.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Xenofon Karakonstantis'},
+                           {'name': 'Konstantinos Bakogiannis'},
+                           {'name': 'George Cambourakis'},
+                           {'name': 'Anastasia Georgaki'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Time lapse video sonification; watching and '
+                       'listening to events unfolding',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422516
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_010.pdf'...
+201
+--- 0011 ---------------------( 2018-09-20 14:01:30 )
+{'filename': 'smc_2018_011.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_011.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Gareth W. Young'},
+                           {'name': 'Siobhán Mannion'},
+                           {'name': 'Sara Wentworth'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Evoking Places from Spaces: The application of '
+                       'Multimodal Narrative Techniques in the Creation of '
+                       '“U - Modified”',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422518
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_011.pdf'...
+201
+--- 0012 ---------------------( 2018-09-20 14:01:38 )
+{'filename': 'smc_2018_012.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_012.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Christine Steinmeier'},
+                           {'name': 'Dominic Becking'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Towards Creating an Augmented Handpan using Leap '
+                       'Motion',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422520
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_012.pdf'...
+201
+--- 0013 ---------------------( 2018-09-20 14:01:51 )
+{'filename': 'smc_2018_013.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_013.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Nikos Stavropoulos'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Inside the intimate zone: The case of aural '
+                       'micro-space in multichannel compositional practice',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422524
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_013.pdf'...
+201
+--- 0014 ---------------------( 2018-09-20 14:02:27 )
+{'filename': 'smc_2018_014.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_014.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Theofani Sklirou'},
+                           {'name': 'Areti Andreopoulou'},
+                           {'name': 'Anastasia Georgaki'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Teaching Programming in Secondary Education through '
+                       'Sound',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422526
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_014.pdf'...
+201
+--- 0015 ---------------------( 2018-09-20 14:02:44 )
+{'filename': 'smc_2018_015.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_015.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Stefania Serafin'},
+                           {'name': 'Sofia Dahl'},
+                           {'name': 'Roberto Bresin Alexander Refsum '
+                                    'Jensenius'},
+                           {'name': 'Runar Unnthorsson'},
+                           {'name': 'Vesa Valimaki'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'NordicSMC: a Nordic University Hub on Sound and '
+                       'Music Computing',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422528
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_015.pdf'...
+201
+--- 0016 ---------------------( 2018-09-20 14:03:32 )
+{'filename': 'smc_2018_016.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_016.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Nasia Therapontos'},
+                           {'name': 'Dimitrios Savva'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Electroacoustic music composition in the Music '
+                       'School of Nicosia',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422532
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_016.pdf'...
+201
+--- 0017 ---------------------( 2018-09-20 14:03:39 )
+{'filename': 'smc_2018_017.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_017.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Francesco Bigoni'},
+                           {'name': 'Pelle Juul Christensen'},
+                           {'name': 'Rasmus Eklund'},
+                           {'name': 'Javier Molina Garcia'},
+                           {'name': 'Cumhur Erkut'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Microphone-based Electronic Wind Instrument by '
+                       'Feature Extraction From Breath Signals',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422534
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_017.pdf'...
+201
+--- 0018 ---------------------( 2018-09-20 14:04:53 )
+{'filename': 'smc_2018_018.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_018.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Emmanouil Theofanis Chourdakis'},
+                           {'name': 'Joshua D. Reiss'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'From my Pen to your Ears: Automatic Production of '
+                       'Radio Plays from Unstructured Story Text',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422536
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_018.pdf'...
+201
+--- 0019 ---------------------( 2018-09-20 14:05:01 )
+{'filename': 'smc_2018_019.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_019.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Laurel Pardue'},
+                           {'name': 'Andrew McPherson'},
+                           {'name': 'Dan Overholt'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Improving the Instrumental Learning Experience '
+                       'through Complexity Management',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422538
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_019.pdf'...
+201
+--- 0020 ---------------------( 2018-09-20 14:05:07 )
+{'filename': 'smc_2018_020.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_020.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Gergely Csapo'},
+                           {'name': 'Jonas Holfelt'},
+                           {'name': 'Peter Bruun'},
+                           {'name': 'Stefania Serafin'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Fiddl: Evaluation of a Smartphone Based Application '
+                       'Designed for a Music Workshop for Children',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422540
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_020.pdf'...
+201
+--- 0021 ---------------------( 2018-09-20 14:10:43 )
+{'filename': 'smc_2018_021.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_021.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Elliot K. Canfield-Dafilou'},
+                           {'name': 'Eoin Callery'},
+                           {'name': 'Christopher Jette'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'A Portable Impulse Response Measurement System',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422544
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_021.pdf'...
+201
+--- 0022 ---------------------( 2018-09-20 14:11:31 )
+{'filename': 'smc_2018_022.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_022.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Zacharias Vamvakousis'},
+                           {'name': 'Alfonso Perez Carrillo'},
+                           {'name': 'Rafael Ramirez'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Acquisition of Violin Instrumental Gestures Using '
+                       'an Infrared Depth Camera',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422548
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_022.pdf'...
+201
+--- 0023 ---------------------( 2018-09-20 14:12:15 )
+{'filename': 'smc_2018_023.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_023.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Brandon Westergaard'},
+                           {'name': 'Timothy Hsu'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Simulating the Acoustic Environment of Two '
+                       'Historical Viennese Theaters',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422550
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_023.pdf'...
+201
+--- 0024 ---------------------( 2018-09-20 14:12:35 )
+{'filename': 'smc_2018_024.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_024.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Thibaut Carpentier'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'A new implementation of Spat in Max',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422552
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_024.pdf'...
+201
+--- 0025 ---------------------( 2018-09-20 14:13:00 )
+{'filename': 'smc_2018_025.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_025.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Anastassia Andreasen'},
+                           {'name': 'Jelisaveta Zovnercuka'},
+                           {'name': 'Kristians Konovalovs'},
+                           {'name': 'Michele Geronazzo'},
+                           {'name': 'Stefania Serafin'},
+                           {'name': 'Razvan Paisa'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Navigate as a Bat. Real-Time Echolocation System in '
+                       'Virtual Reality',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422555
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_025.pdf'...
+201
+--- 0026 ---------------------( 2018-09-20 14:14:08 )
+{'filename': 'smc_2018_026.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_026.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Matteo Lionello'},
+                           {'name': 'Hendrik Purwins'},
+                           {'name': 'Luca Pietrogrande'},
+                           {'name': 'Mohamed Abou-Zleikha'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Interactive Exploration of Musical Space with '
+                       'Parametric t-SNE',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422557
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_026.pdf'...
+201
+--- 0027 ---------------------( 2018-09-20 14:15:25 )
+{'filename': 'smc_2018_027.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_027.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Oswaldo Emiddio Vasquez Hadjilyra'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'You Are Here: Sonic Crossings and Time '
+                       'Indeterminacy within the Buffer Zone',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422559
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_027.pdf'...
+201
+--- 0028 ---------------------( 2018-09-20 14:19:15 )
+{'filename': 'smc_2018_028.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_028.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Tomas Gajarsky'},
+                           {'name': 'Hendrik Purwins'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'An Xception Residual Recurrent Neural Network for '
+                       'Audio Event Detection and Tagging',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422563
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_028.pdf'...
+201
+--- 0029 ---------------------( 2018-09-20 14:19:22 )
+{'filename': 'smc_2018_029.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_029.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Asmita Poddar'},
+                           {'name': 'Eva Zangerle'},
+                           {'name': 'Yi-Hsuan Yang'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': '#nowplaying-RS: A New Benchmark Dataset for '
+                       'Building Context-Aware Music Recommender Systems',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422565
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_029.pdf'...
+201
+--- 0030 ---------------------( 2018-09-20 14:19:52 )
+{'filename': 'smc_2018_030.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_030.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Benjamin Matuszewski'},
+                           {'name': 'Frédéric Bevilacqua'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Toward a Web of Audio Things',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422567
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_030.pdf'...
+201
+--- 0031 ---------------------( 2018-09-20 14:21:12 )
+{'filename': 'smc_2018_031.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_031.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Orchisama Das'},
+                           {'name': 'Blair Kaneshiro'},
+                           {'name': 'Tom Collins'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Analyzing and Classifying Guitarists from Rock '
+                       'Guitar Solo Tablature',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422569
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_031.pdf'...
+201
+--- 0032 ---------------------( 2018-09-20 14:21:47 )
+{'filename': 'smc_2018_032.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_032.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Razvan Paiza'},
+                           {'name': 'Stefania Serafin'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Recreating an instrument inspired by the glass '
+                       'harmonica using fabrication techniques and physical '
+                       'models',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422571
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_032.pdf'...
+201
+--- 0033 ---------------------( 2018-09-20 14:22:39 )
+{'filename': 'smc_2018_033.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_033.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Nick Bouris'},
+                           {'name': 'Achilleas Chaldaeakes'},
+                           {'name': 'Anastasia Georgaki'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Encoding Byzantine Music Notation (Ca. 1600-1814)',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422575
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_033.pdf'...
+201
+--- 0034 ---------------------( 2018-09-20 14:23:02 )
+{'filename': 'smc_2018_034.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_034.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Furkan Yesiler'},
+                           {'name': 'Baris Bozkurt'},
+                           {'name': 'Xavier Serra'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Makam Recognition Using Extended Pitch Distribution '
+                       'Features and Multi-Layer Perceptrons',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422577
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_034.pdf'...
+201
+--- 0035 ---------------------( 2018-09-20 14:24:38 )
+{'filename': 'smc_2018_035.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_035.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Adriano Baratè'},
+                           {'name': 'Davide Andrea Mauro'},
+                           {'name': 'Goffredo Haus'},
+                           {'name': 'Luca Andrea Ludovico'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Formalizing Schoenberg’s Fundamentals of Musical '
+                       'Composition through Petri Nets',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422579
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_035.pdf'...
+201
+--- 0036 ---------------------( 2018-09-20 14:24:47 )
+{'filename': 'smc_2018_036.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_036.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Diemo Schwarz'},
+                           {'name': 'Daniel Schindler'},
+                           {'name': 'Severino Spadavecchia'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'A Heuristic Algorithm for DJ Cue Point Estimation',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422581
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_036.pdf'...
+201
+--- 0037 ---------------------( 2018-09-20 14:25:11 )
+{'filename': 'smc_2018_037.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_037.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Eduardo Fonseca'},
+                           {'name': 'Rong Gong'},
+                           {'name': 'Xavier Serra'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'A Simple Fusion of Deep and Shallow Learning for '
+                       'Acoustic Scene Classification',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422583
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_037.pdf'...
+201
+--- 0038 ---------------------( 2018-09-20 14:25:30 )
+{'filename': 'smc_2018_038.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_038.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Marcelo Queiroz'},
+                           {'name': 'Guilherme Jun Yoshimura'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Relative DTW Embedding for Binary Classification of '
+                       'Audio Data',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422585
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_038.pdf'...
+201
+--- 0039 ---------------------( 2018-09-20 14:26:39 )
+{'filename': 'smc_2018_039.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_039.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Rameel Sethi'},
+                           {'name': 'Noah Weninger'},
+                           {'name': 'Abram Hindle'},
+                           {'name': 'Vadim Bulitko'},
+                           {'name': 'Michael Frishkopf'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Training Deep Convolutional Networks with Unlimited '
+                       'Synthesis of Musical Examples for Multiple '
+                       'Instrument Recognition',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422587
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_039.pdf'...
+201
+--- 0040 ---------------------( 2018-09-20 14:26:52 )
+{'filename': 'smc_2018_040.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_040.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Jianyu Fan'},
+                           {'name': 'Fred Tung'},
+                           {'name': 'William Li'},
+                           {'name': 'Philippe Pasquier'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Soundscape Emotion Recognition via Deep Learning',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422589
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_040.pdf'...
+201
+--- 0041 ---------------------( 2018-09-20 14:27:02 )
+{'filename': 'smc_2018_041.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_041.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Jianyu Fan'},
+                           {'name': 'Miles Thorogood'},
+                           {'name': 'Kıvanç Tatar'},
+                           {'name': 'Philippe Pasquier'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Quantitative Analysis of the Impact of Mixing on '
+                       'Perceived Emotion of Soundscape Recordings',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422591
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_041.pdf'...
+201
+--- 0042 ---------------------( 2018-09-20 14:27:51 )
+{'filename': 'smc_2018_042.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_042.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Kosmas Kritsis'},
+                           {'name': 'Aggelos Gkiokas'},
+                           {'name': 'Quentin Lamerand'},
+                           {'name': 'Robert Piéchaud'},
+                           {'name': 'Carlos Acosta'},
+                           {'name': 'Maximos Kaliakatsos-Papakostas'},
+                           {'name': 'Vassilis Katsouros'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Design and Interaction of 3D Virtual Music '
+                       'Instruments for STEAM Education Using Web '
+                       'Technologies',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422593
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_042.pdf'...
+201
+--- 0043 ---------------------( 2018-09-20 14:28:49 )
+{'filename': 'smc_2018_043.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_043.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'John Sullivan'},
+                           {'name': 'Marcelo M. Wanderley'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Stability, Reliability, Compatibility: Reviewing 40 '
+                       'Years of DMI Design',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422595
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_043.pdf'...
+201
+--- 0044 ---------------------( 2018-09-20 14:29:15 )
+{'filename': 'smc_2018_044.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_044.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Kurijn Buys'},
+                           {'name': 'Andrew McPherson'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Real-time Bowed String Feature Extraction for '
+                       'Performance Applications',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422597
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_044.pdf'...
+201
+--- 0045 ---------------------( 2018-09-20 14:29:37 )
+{'filename': 'smc_2018_045.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_045.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Eduardo Miranda'},
+                           {'name': 'Hedy Hurban'},
+                           {'name': 'Edward Braund'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Dervish Sound Dress; a Development of a Musical '
+                       'Interface Garment which explores Wearable '
+                       'Technology using Sound and Haptic Feedback for '
+                       'Performance and Interaction',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422599
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_045.pdf'...
+201
+--- 0046 ---------------------( 2018-09-20 14:29:53 )
+{'filename': 'smc_2018_046.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_046.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Kosmas Kritsis'},
+                           {'name': 'Aggelos Gkiokas'},
+                           {'name': 'Maximos Kaliakatsos-Papakostas'},
+                           {'name': 'Vassilis Katsouros'},
+                           {'name': 'Aggelos Pikrakis'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Deployment of LSTMs for Real-Time Hand Gesture '
+                       'Interaction of 3D Virtual Music Instruments with a '
+                       'Leap Motion Sensor',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422601
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_046.pdf'...
+201
+--- 0047 ---------------------( 2018-09-20 14:30:56 )
+{'filename': 'smc_2018_047.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_047.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Ohejl Zabetian'},
+                           {'name': 'Pablo Delgado'},
+                           {'name': 'Sofia Dahl'},
+                           {'name': 'Stefania Serafin'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'An Expressive Multidimensional Physical Modelling '
+                       'Percussion Instrument',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422605
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_047.pdf'...
+201
+--- 0048 ---------------------( 2018-09-20 14:32:19 )
+{'filename': 'smc_2018_048.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_048.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Matteo Lionello'},
+                           {'name': 'Rafael Ramirez'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'A Machine Learning Approach to Violin Vibrato '
+                       'Modelling in Audio Performances and a Didactic '
+                       'Application for Mobile Devices',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422607
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_048.pdf'...
+201
+--- 0049 ---------------------( 2018-09-20 14:32:48 )
+{'filename': 'smc_2018_049.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_049.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Nicolas Figueiredo'},
+                           {'name': 'Felipe Felix'},
+                           {'name': 'Carolina Brum Medeiros'},
+                           {'name': 'Marcelo Queiroz'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'A comparative study on filtering and classification '
+                       'of bird songs',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422609
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_049.pdf'...
+201
+--- 0050 ---------------------( 2018-09-20 14:33:25 )
+{'filename': 'smc_2018_050.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_050.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Furkan Yesiler'},
+                           {'name': 'Rafael Ramirez'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'A Machine Learning Approach to Classification of '
+                       'Phonation Modes in Singing',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422611
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_050.pdf'...
+201
+--- 0051 ---------------------( 2018-09-20 14:33:41 )
+{'filename': 'smc_2018_051.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_051.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Ke Ma'}, {'name': 'Tian Xia'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'AI Encountering Interactive Systems: A Deep '
+                       'Learning Reinforced Musical Composition Model',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422613
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_051.pdf'...
+201
+--- 0052 ---------------------( 2018-09-20 14:34:03 )
+{'filename': 'smc_2018_052.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_052.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Carlos Guedes'},
+                           {'name': 'Konstantinos Trochidis'},
+                           {'name': 'Akshay Anantapadmanabhan'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Modeling Carnatic Rhythm Generation: a Data Driven '
+                       'Approach Based on Rhythmic Analysis',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422615
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_052.pdf'...
+201
+--- 0053 ---------------------( 2018-09-20 14:34:34 )
+{'filename': 'smc_2018_053.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_053.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Tychonas Michailidis'},
+                           {'name': 'Jason Hockman'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Affordances of Vibrational Excitation for Music '
+                       'Composition and Performance',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422619
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_053.pdf'...
+201
+--- 0054 ---------------------( 2018-09-20 14:35:57 )
+{'filename': 'smc_2018_054.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_054.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'George Petras'},
+                           {'name': 'Panagiotis Tsagkarakis'},
+                           {'name': 'Anastasia Georgaki'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Approaches and Assessment of Drama Prosodic Tools '
+                       'in Live Performance',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422621
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_054.pdf'...
+201
+--- 0055 ---------------------( 2018-09-20 14:36:14 )
+{'filename': 'smc_2018_055.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_055.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Niccolò Pretto'},
+                           {'name': 'Barıs Bozkurt'},
+                           {'name': 'Rafael Caro Repetto'},
+                           {'name': 'Xavier Serra'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Nawba Recognition for Arab-andalusian Music Using '
+                       'Templates From Music Scores',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422623
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_055.pdf'...
+201
+--- 0056 ---------------------( 2018-09-20 14:36:56 )
+{'filename': 'smc_2018_056.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_056.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Stefania Serafin'},
+                           {'name': 'Romain Michon'},
+                           {'name': 'Smilen Dimitrov'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Blender2faust: from drawn 3d objects to physically '
+                       'based sound models',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422625
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_056.pdf'...
+201
+--- 0057 ---------------------( 2018-09-20 14:37:21 )
+{'filename': 'smc_2018_057.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_057.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Christos Garoufis'},
+                           {'name': 'Athanasia Zlatintsi'},
+                           {'name': 'Petros Maragos'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'A Collaborative System for Composing Music via '
+                       'Motion Using a Kinect Sensor and Skeletal Data',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422627
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_057.pdf'...
+201
+--- 0058 ---------------------( 2018-09-20 14:38:00 )
+{'filename': 'smc_2018_058.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_058.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Bjarni Gunnarsson'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Block-based Scheduling Through Interrupts And '
+                       'Intervention',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422629
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_058.pdf'...
+201
+--- 0059 ---------------------( 2018-09-20 14:38:13 )
+{'filename': 'smc_2018_059.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_059.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Nikolaj Møller'},
+                           {'name': 'Dan Overholt'},
+                           {'name': 'Vanessa Carpenter'},
+                           {'name': 'Antonio Stella'},
+                           {'name': 'Baldur Kampmann'},
+                           {'name': 'Martin Minovski'},
+                           {'name': 'Martin Maunsbach'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'SketchyTuna: Exploring A Design For Screenless '
+                       'Creativity',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422633
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_059.pdf'...
+201
+--- 0060 ---------------------( 2018-09-20 14:38:49 )
+{'filename': 'smc_2018_060.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_060.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Andrea Passalenti'},
+                           {'name': 'Federico Fontana'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Haptic Interaction with Guitar and Bass Virtual '
+                       'Strings',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422635
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_060.pdf'...
+201
+--- 0061 ---------------------( 2018-09-20 14:39:42 )
+{'filename': 'smc_2018_061.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_061.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Rodolphe Bourotte'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'UPISketch : The Renewal of an Old Idea',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422637
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_061.pdf'...
+201
+--- 0062 ---------------------( 2018-09-20 14:39:52 )
+{'filename': 'smc_2018_062.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_062.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Martin Neukom'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Frequency Control of Nonlinear Oscillators – '
+                       'Strategies for Realtime Sound Synthesis',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422639
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_062.pdf'...
+201
+--- 0063 ---------------------( 2018-09-20 14:40:06 )
+{'filename': 'smc_2018_063.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_063.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Fabián Esqueda'},
+                           {'name': 'Otso Lähdeoja'},
+                           {'name': 'Vesa Valimaki'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Algorithms for Guitar-Driven Synthesis: Application '
+                       'to an Augmented Guitar',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422641
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_063.pdf'...
+201
+--- 0064 ---------------------( 2018-09-20 14:44:04 )
+{'filename': 'smc_2018_064.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_064.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Vesa Norilo'},
+                           {'name': 'Roger Dannenberg'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Ko2 - Distributed Music Systems With O2 and Kronos',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422645
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_064.pdf'...
+201
+--- 0065 ---------------------( 2018-09-20 14:44:11 )
+{'filename': 'smc_2018_065.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_065.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Simon Blackmore'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Data Transmission as Musical Performance',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422647
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_065.pdf'...
+201
+--- 0066 ---------------------( 2018-09-20 14:45:56 )
+{'filename': 'smc_2018_066.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_066.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Masatoshi Hamanaka'},
+                           {'name': 'Keiji Hirata'},
+                           {'name': 'Satoshi Tojo'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'GTTM Database and Manual Time-span Tree Generation '
+                       'Tool',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422651
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_066.pdf'...
+201
+--- 0067 ---------------------( 2018-09-20 14:47:00 )
+{'filename': 'smc_2018_067.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_067.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Hiromi Nakamura'},
+                           {'name': 'Tomoyasu Nakano'},
+                           {'name': 'Satoru Fukayama'},
+                           {'name': 'Masataka Goto'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'CTcomposer: A Music Composition Interface '
+                       'Considering Intra-Composer Consistency and Musical '
+                       'Typicality',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422655
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_067.pdf'...
+201
+--- 0068 ---------------------( 2018-09-20 14:47:27 )
+{'filename': 'smc_2018_068.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_068.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Israel Neuman'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Mapping Pitch Classes And Sound Objects: A Bridge '
+                       'Between Klumpenhouwer Networks And Schaeffer’s '
+                       'TARTYP',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422659
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_068.pdf'...
+201
+--- 0069 ---------------------( 2018-09-20 14:47:51 )
+{'filename': 'smc_2018_069.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_069.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Hiroki Nishino'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Unit-generator Graph as a Generator of Lazily '
+                       'Evaluated Audio-vector Trees',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422661
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_069.pdf'...
+201
+--- 0070 ---------------------( 2018-09-20 14:48:10 )
+{'filename': 'smc_2018_070.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_070.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Ioannis Zannos'},
+                           {'name': 'Martin Carlé'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Metric Interweaving in Networked Dance and Music '
+                       'Performance',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422665
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_070.pdf'...
+201
+--- 0071 ---------------------( 2018-09-20 14:48:29 )
+{'filename': 'smc_2018_071.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_071.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Doga Buse Cavdir'},
+                           {'name': 'Romain Michon'},
+                           {'name': 'Ge Wang'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'The BodyHarp: Designing the Intersection Between '
+                       'the Instrument and the Body',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422667
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_071.pdf'...
+201
+--- 0072 ---------------------( 2018-09-20 14:51:55 )
+{'filename': 'smc_2018_072.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_072.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Marcelo Gimenes'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Sonic Crossings with Audience Participation: The '
+                       'Embodied iSound Performance',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422673
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_072.pdf'...
+201
+--- 0073 ---------------------( 2018-09-20 14:52:06 )
+{'filename': 'smc_2018_073.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_073.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Mina Shiraishi'},
+                           {'name': 'Kozue Ogasawara'},
+                           {'name': 'Tetsuro Kitahara'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'HamoKara: A System for Practice of Backing Vocals '
+                       'for Karaoke',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422675
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_073.pdf'...
+201
+--- 0074 ---------------------( 2018-09-20 14:52:29 )
+{'filename': 'smc_2018_074.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_074.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Romain Michon'},
+                           {'name': 'John Granzow'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': '3D Printing and Physical Modeling of Musical '
+                       'Instruments: Casting the Net',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422679
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_074.pdf'...
+201
+--- 0075 ---------------------( 2018-09-20 14:52:49 )
+{'filename': 'smc_2018_075.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_075.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Andreas Apergis'},
+                           {'name': 'Andreas Floros'},
+                           {'name': 'Maximos Kaliakatsos-Papakostas'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Sonoids: Interactive Sound Synthesis Driven by '
+                       'Emergent Social Behaviour in the Sonic Domain',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422681
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_075.pdf'...
+201
+--- 0076 ---------------------( 2018-09-20 14:53:22 )
+{'filename': 'smc_2018_076.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_076.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Thilo Koch'},
+                           {'name': 'Marcelo Queiroz'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Towards Flexible Audio Processing',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422683
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_076.pdf'...
+201
+--- 0077 ---------------------( 2018-09-20 14:53:37 )
+{'filename': 'smc_2018_077.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2018/smc_2018_077.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2018',
+              'conference_dates': '4-7 July',
+              'conference_place': 'Limassol, Cyprus',
+              'conference_title': '15th Sound and Music Computing Conference',
+              'conference_url': 'http://cyprusconferences.org/smc2018/',
+              'contributors': [{'name': 'Anastasia Georgaki',
+                                'type': 'Editor'},
+                               {'name': 'Areti Andreopoulou',
+                                'type': 'Editor'}],
+              'creators': [{'name': 'Sérgio Freire'},
+                           {'name': 'Augusto Armondes'},
+                           {'name': 'João Viana'},
+                           {'name': 'Rubens Silva'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2018-07-04',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-9963-697-30-4',
+                                       'relation': 'isPartOf'}],
+              'title': 'Strumming on an Acoustic Nylon Guitar: Microtiming, '
+                       'Beat Control and Rhythmic Expression in Three '
+                       'Different Accompaniment Patterns',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1422685
+Doing metadata upload...
+200
+Doing file upload 'smc_2018_077.pdf'...
+201
+Done; start: 2018-09-20 13:50:58 ; end: 2018-09-20 14:54:06 ; duration: 1:03:08.170177

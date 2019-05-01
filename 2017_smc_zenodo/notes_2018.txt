@@ -1,0 +1,560 @@
+Mon Aug 20, 17:00 - 01:00
+
+Merged proceedings - Federico via WeTransfer:
+
+here's my contribution for the books:
+
+2007 and before missing
+2008 sent with wetransfer
+2009 http://smc2009.smcnetwork.org/proceedings/proceedings.pdf
+2010 missing (Barcelona, Xavier)
+2011 sent with wetransfer
+2012 sent with wetransfer
+2013
+http://www.speech.kth.se/smac-smc-2013/proceedings/SMC2013_Proceedings_online-version.pdf
+2014 missing (Athens, Anastasia)
+2015 http://www.maynoothuniversity.ie/smc15/files/FinalProceedings.pdf
+2016
+https://smc2016.hfmt-hamburg.de/wp-content/uploads/2016/09/SMC2016_proceedings.pdf
+
+SMC 2008: https://zenodo.org/record/1400700
+SMC 2009: https://zenodo.org/record/1400714
+SMC 2010: -
+SMC 2011: https://zenodo.org/record/1400731
+SMC 2012: (no editor, put Stefania) https://zenodo.org/record/1400738
+SMC 2013: https://zenodo.org/record/1400754
+SMC 2014: -
+SMC 2015: https://zenodo.org/record/1400777
+SMC 2016: https://zenodo.org/record/1400818
+
+SMC 2017: papers are on:
+http://smc2017.aalto.fi/proceedings.html
+... both single PDF:
+
+http://smc2017.aalto.fi/media/materials/SMC2017_Proc_Papers.pdf
+
+... and individual ones...
+
+... There is unfortunately nothing on http://smcnetwork.org/resources/smc2017 - so I cannot harvest from there...
+
+Ok, so first, manual upload of 2017 book, then let's see about scraping...
+
+So, now we have:
+
+SMC 2017: https://zenodo.org/record/1401362
+
+.... now also posted search issue: [Searching on Zenodo unclear · Issue #1584 · zenodo/zenodo](https://github.com/zenodo/zenodo/issues/1584) ;
+
+... now about the papers; need a new scraper for http://smc2017.aalto.fi/proceedings.html - starting with a script, papers-get-smc2017.aalto.fi.py (initially as copy of papers-get-smc.py, then reduced).
+
+Posted a question, as it is complicated: https://stackoverflow.com/questions/51956649/getting-proper-utf-8-from-lxml-html-fromstring-via-requests-get-from-html-page ....
+
+Note: the webpage http://smc2017.aalto.fi/proceedings.html doesn't seem to list the papers in the order that the filaname pages indicate, so it goes:
+
+http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p145.pdf
+http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p153.pdf
+http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p159.pdf
+http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p167.pdf
+http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p5.pdf ***
+
+Anyways, the script will rename the PDFs, so they are numbered in order of appearance as on webpage: smc_2017_001.pdf, then 002 etc
+
+Damn it, now I get:
+
+$ python2 papers-get-smc2017.aalto.fi.py 2>&1 | tee _get.log
+Directory _DATA_ exists.
+Parse online data to bib files? [y/n]
+n
+Download online PDFs? [y/n]
+y
+
+_DATA_/SMC Conference 2017/SMC Conference 2017.bib
+('_DATA_/SMC Conference 2017/SMC Conference 2017.bib', <open file '_DATA_/SMC Conference 2017/SMC Conference 2017.bib', mode 'r' at 0x7eff3d569e40>)
+Traceback (most recent call last):
+  File "papers-get-smc2017.aalto.fi.py", line 260, in <module>
+    bib_database = bibtexparser.load(bibtex_file)
+  File "/usr/local/lib/python2.7/dist-packages/bibtexparser/__init__.py", line 70, in load
+    parser = bparser.BibTexParser()
+  File "/usr/local/lib/python2.7/dist-packages/bibtexparser/bparser.py", line 132, in __init__
+    self._init_expressions()
+  File "/usr/local/lib/python2.7/dist-packages/bibtexparser/bparser.py", line 171, in _init_expressions
+    self._expr = BibtexExpression()
+  File "/usr/local/lib/python2.7/dist-packages/bibtexparser/bibtexexpression.py", line 180, in __init__
+    ) | pp.stringEnd()
+TypeError: __call__() takes exactly 2 arguments (1 given)
+
+$ python3 papers-get-smc2017.aalto.fi.py 2>&1 | tee _get.log
+Directory _DATA_ exists.
+Parse online data to bib files? [y/n]
+n
+Download online PDFs? [y/n]
+y
+
+_DATA_/SMC Conference 2017/SMC Conference 2017.bib
+_DATA_/SMC Conference 2017/SMC Conference 2017.bib <_io.TextIOWrapper name='_DATA_/SMC Conference 2017/SMC Conference 2017.bib' mode='r' encoding='UTF-8'>
+Traceback (most recent call last):
+  File "papers-get-smc2017.aalto.fi.py", line 260, in <module>
+    bib_database = bibtexparser.load(bibtex_file)
+  File "/usr/local/lib/python3.4/dist-packages/bibtexparser/__init__.py", line 70, in load
+    parser = bparser.BibTexParser()
+  File "/usr/local/lib/python3.4/dist-packages/bibtexparser/bparser.py", line 132, in __init__
+    self._init_expressions()
+  File "/usr/local/lib/python3.4/dist-packages/bibtexparser/bparser.py", line 171, in _init_expressions
+    self._expr = BibtexExpression()
+  File "/usr/local/lib/python3.4/dist-packages/bibtexparser/bibtexexpression.py", line 180, in __init__
+    ) | pp.stringEnd()
+TypeError: __call__() missing 1 required positional argument: 'name'
+
+
+what a stupid error...
+
+Damn it, it ended up being even more complicated ?! Posted an issue:
+
+  Cannot get bibtexparser to work (__call__ missing argument at bibtexexpression.py, line 180) · Issue #215 · sciunto-org/python-bibtexparser
+  https://github.com/sciunto-org/python-bibtexparser/issues/215
+
+... well, managed to fix it myself, posted solution on https://github.com/sciunto-org/python-bibtexparser/issues/215#issuecomment-414855079 ; and now managed to download the PDFs too! noice...
+
+I've downloaded 65 papers, but here we get 67 line matches:
+
+$ wget http://smc2017.aalto.fi/proceedings.html -qO - | grep '\.pdf' | awk '{print NR, "\t", $0}'
+1 	         SMC-17 paper proceedings are now available. Click <a href="media/materials/SMC2017_Proc_Papers.pdf" download="SMC2017_Proc_Papers.pdf">here</a> to download a single PDF file with all papers (26.3 MB). Individual papers can be found below.
+2 	           <p><a href="media/materials/proceedings/SMC17_p145.pdf"><u>Exploring Sound-Motion Textures in Drum Set Performance</u></a><br>
+3 	           <p><a href="media/materials/proceedings/SMC17_p153.pdf"><u>Jazz Piano Trio Synthesizing System Based on HMM and DNN</u></a><br>
+4 	           <p><a href="media/materials/proceedings/SMC17_p159.pdf"><u>Audio-Visual Source Association for String Ensembles through
+5 	           <p><a href="media/materials/proceedings/SMC17_p167.pdf"><u>Investigations on Stage Acoustic Preferences of Solo Trumpet Players
+6 	           <p><a href="media/materials/proceedings/SMC17_p5.pdf"><u>The design of a lightweight DSP programming library</u></a><br>
+7 	           <p><a href="media/materials/proceedings/SMC17_p13.pdf"><u>Towards the internet of musical things</u></a><br>
+8 	           <p><a href="media/materials/proceedings/SMC17_p21.pdf"><u>Environment-Mediated Coupling of Autonomous Sound-Generating Systems in
+9 	           <p><a href="media/materials/proceedings/SMC17_p28.pdf"><u>Design Implications for Technology-Mediated Audience Participation in Live Music</u></a><br>
+10 	           <p><a href="media/materials/proceedings/SMC17_p35.pdf"><u>Automatic Arranging Musical Score for Piano using Important Musical Elements</u></a><br>
+11 	           <p><a href="media/materials/proceedings/SMC17_p42.pdf"><u>FFT-based Dynamic Range Compression</u></a><br>
+12 	           <p><a href="media/materials/proceedings/SMC17_p50.pdf"><u>A Sonification Interface Unifying Real-Time and Offline Processing</u></a><br>
+13 	           <p><a href="media/materials/proceedings/SMC17_p58.pdf"><u>QUALIA: A Software for Guided Meta-Improvisation Performance</u></a><br>
+14 	           <p><a href="media/materials/proceedings/SMC17_p63.pdf"><u>Interactive Painting Sonification Using a Sensor-Equipped Runway</u></a><br>
+15 	           <p><a href="media/materials/proceedings/SMC17_p71.pdf"><u>Interactive Soundscapes: Developing a Physical Space Augmented through Dynamic Sound Rendering and Granular Synthesis</u></a><br>
+16 	           <p><a href="media/materials/proceedings/SMC17_p77.pdf"><u>Learning to Play the Guitar at the Age of Interactive and Collaborative Web Technologies</u></a><br>
+17 	           <p><a href="media/materials/proceedings/SMC17_p85.pdf"><u>Key Inference from Irish Traditional Music Scores and Recordings</u></a><br>
+18 	           <p><a href="media/materials/proceedings/SMC17_p92.pdf"><u>Ferin Martino’s Tour: Lessons from Adapting the Same Algorithmic Art Installation to Different Venues and Platforms</u></a><br>
+19 	           <p><a href="media/materials/proceedings/SMC17_p98.pdf"><u>Exploring Melody and Motion Features in “Sound-Tracings”</u></a><br>
+20 	           <p><a href="media/materials/proceedings/SMC17_p104.pdf"><u>Troop: A Collaborative Tool for Live Coding</u></a><br>
+21 	           <p><a href="media/materials/proceedings/SMC17_p110.pdf"><u>An Adaptive Karaoke System that Plays Accompaniment Parts of Music Audio Signals Synchronously with Users' Singing Voices</u></a><br>
+22 	           <p><a href="media/materials/proceedings/SMC17_p117.pdf"><u>Experimental Assessment of Descriptive Statistics and Adaptive Methodologies for Threshold Establishment in Onset Selection Functions</u></a><br>
+23 	           <p><a href="media/materials/proceedings/SMC17_p125.pdf"><u>Robinflock: a Polyphonic Algorithmic Composer for Interactive Scenarios with Children</u></a><br>
+24 	           <p><a href="media/materials/proceedings/SMC17_p133.pdf"><u>Technology-Assisted Performance of Polytemporal Music</u></a><br>
+25 	           <p><a href="media/materials/proceedings/SMC17_p139.pdf"><u>Investigating Spatial Music Qualia through Tissue Conduction</u></a><br>
+26 	           <p><a href="media/materials/proceedings/SMC17_p175.pdf"><u>Exploring Social Mobile Music with Tiny Touch-Screen Performances</u></a><br>
+27 	           <p><a href="media/materials/proceedings/SMC17_p181.pdf"><u>Does Singing a Low-Pitch Tone Make You Look Angrier?</u></a><br>
+28 	           <p><a href="media/materials/proceedings/SMC17_p188.pdf"><u>Monitoring and Supporting Engagement in Skilled Tasks: From Creative Musical Activity to Psychological Wellbeing</u></a><br>
+29 	           <p><a href="media/materials/proceedings/SMC17_p195.pdf"><u>The Musical Influence on People's Micromotion when Standing Still in Groups</u></a><br>
+30 	           <p><a href="media/materials/proceedings/SMC17_p200.pdf"><u>SECCIMA: Singing and Ear Training for Children with Cochlear Implants via a Mobile Application</u></a><br>
+31 	           <p><a href="media/materials/proceedings/SMC17_p208.pdf"><u>Stacked Convolutional and Recurrent Neural Networks for Music Emotion Recognition</u></a><br>
+32 	           <p><a href="media/materials/proceedings/SMC17_p214.pdf"><u>Validating Attach Phase Descriptors Obtained by the Timbre Toolbox and MIRtoolbox</u></a><br>
+33 	           <a href="media/materials/proceedings/SMC17_p214_Errata.pdf">Errata (Published Dec. 18, 2017)</a></p>
+34 	           <p><a href="media/materials/proceedings/SMC17_p220.pdf"><u>Sample-Level Deep Convolutional Neural Networks for Music Auto-Tagging Using Raw Waveforms</u></a><br>
+35 	           <p><a href="media/materials/proceedings/SMC17_p227.pdf"><u>Generating Data to Train Convolutional Neural Networks for Classical Music Source Separation</u></a><br>
+36 	           <p><a href="media/materials/proceedings/SMC17_p234.pdf"><u>Evaluation of an Acoustic Interface for Tremor Analysis</u></a><br>
+37 	           <p><a href="media/materials/proceedings/SMC17_p242.pdf"><u>An Exploratory Study on the Effect of Auditory Feedback on Gaze Behavior in a Virtual Throwing Task with and without Haptic Feedback</u></a><br>
+38 	           <p><a href="media/materials/proceedings/SMC17_p250.pdf"><u>Auralization in Space and in Rooms of Arbitrary D Dimensions</u></a><br>
+39 	           <p><a href="media/materials/proceedings/SMC17_p254.pdf"><u>Auditory, Visual and Somatosensory Localization of Piano Tones: a Preliminary Study</u></a><br>
+40 	           <p><a href="media/materials/proceedings/SMC17_p261.pdf"><u>SONIC GREENHOUSE - Considerations on a Large-Scale Audio-Architectural Installation</u></a><br>
+41 	           <p><a href="media/materials/proceedings/SMC17_p267.pdf"><u>The CSOUND Plugin Opcode Framework</u></a><br>
+42 	           <p><a href="media/materials/proceedings/SMC17_p275.pdf"><u>Versioning and Annotation Support for Collaborative Mapping Design</u></a><br>
+43 	           <p><a href="media/materials/proceedings/SMC17_p279.pdf"><u>Tools for Annotatiing Musical Measures in Digital Music Editions</u></a><br>
+44 	           <p><a href="media/materials/proceedings/SMC17_p287.pdf"><u>Renotation of Optical Music Recognition Data</u></a><br>
+45 	           <p><a href="media/materials/proceedings/SMC17_p294.pdf"><u>WALLACE: Composing Music for Variable Reverberation</u></a><br>
+46 	           <p><a href="media/materials/proceedings/SMC17_p299.pdf"><u>Real-Time Physical Model for Synthesis of Sword Sounds</u></a><br>
+47 	           <p><a href="media/materials/proceedings/SMC17_p306.pdf"><u>Electronic Hearing Protection for Musicians</u></a><br>
+48 	           <p><a href="media/materials/proceedings/SMC17_p314.pdf"><u>Virtual Analog Simulation and Extensions of Plate Reverberation</u></a><br>
+49 	           <p><a href="media/materials/proceedings/SMC17_p320.pdf"><u>The Effectiveness of Two Audiovisual Mappings to Control a Concatenative Synthesiser</u></a><br>
+50 	           <p><a href="media/materials/proceedings/SMC17_p328.pdf"><u>Extraction, Mapping, and Evaluation of Expressive Acoustic Features for Adaptive Digital Audio Effects</u></a><br>
+51 	           <p><a href="media/materials/proceedings/SMC17_p336.pdf"><u>Virtual Analog Model of the Lockhart Wavefolder</u></a><br>
+52 	           <p><a href="media/materials/proceedings/SMC17_p343.pdf"><u>Musical Approaches for Working with Time-Delayed Feedback Networks</u></a><br>
+53 	           <p><a href="media/materials/proceedings/SMC17_p351.pdf"><u>Electric Grammars. Algorithmic Design and Construction of Experimental Music Circuits</u></a><br>
+54 	           <p><a href="media/materials/proceedings/SMC17_p359.pdf"><u>Constructing PEDB 2nd Edition: A Music Performance Database with Phrase Information</u></a><br>
+55 	           <p><a href="media/materials/proceedings/SMC17_p365.pdf"><u>Musical Feature and Novelty Curve Characterizations as Predictors of Segmentation Accuracy</u></a><br>
+56 	           <p><a href="media/materials/proceedings/SMC17_p373.pdf"><u>Meter Detection in Symbolic Music Using a Lexicalized PCFG</u></a><br>
+57 	           <p><a href="media/materials/proceedings/SMC17_p380.pdf"><u>Audio-to-Score Alignment of Piano Music Using RNN-Based Automatic Music Transcription</u></a><br>
+58 	           <p><a href="media/materials/proceedings/SMC17_p386.pdf"><u>Lp-Viterbi Algorithm for Automatic Fingering Decision</u></a><br>
+59 	           <p><a href="media/materials/proceedings/SMC17_p391.pdf"><u>Systema Naturae: Shared Practices Between Physical Computing and Algorithmic Composition</u></a><br>
+60 	           <p><a href="media/materials/proceedings/SMC17_p399.pdf"><u>Generating Equivalent Chord Progressions to Enrich Guided Improvisation: Application to Rhythm Changes</u></a><br>
+61 	           <p><a href="media/materials/proceedings/SMC17_p407.pdf"><u>A Constraint-Based Framework to Model Harmony for Music Composition</u></a><br>
+62 	           <p><a href="media/materials/proceedings/SMC17_p415.pdf"><u>pch2csd: an Application for Converting Nord Modular G2 Patches into Csound Code</u></a><br>
+63 	           <p><a href="media/materials/proceedings/SMC17_p422.pdf"><u>Towards an Automated Multitrack Mixing Tool Using Answer Set Programming</u></a><br>
+64 	           <p><a href="media/materials/proceedings/SMC17_p429.pdf"><u>Explorations with Digital Control of MIDI-enabled Pipe Organs</u></a><br>
+65 	           <p><a href="media/materials/proceedings/SMC17_p434.pdf"><u>Live Orchestral Piano, a System for Real-Time Orchestral Music Generation</u></a><br>
+66 	           <p><a href="media/materials/proceedings/SMC17_p443.pdf"><u>A Singing Instrument for Real-Time Vocal-Part Arrangement of Music and Audio Signals</u></a><br>
+67 	           <p><a href="media/materials/proceedings/SMC17_p450.pdf"><u>Evaluation of the Learnability and Playability of Pitch Layouts in New Musical Instruments</u></a><br>
+
+First one is two mentions of .pdf on the first line for the collected proceedings that we don't use, that leaves 66 - and then there is a second <a href="media/materials/proceedings/SMC17_p214_Errata.pdf">Errata (Published Dec. 18, 2017)</a> in the <p>, which we've also avoided, which makes it 65 - all looks good!
+
+-----
+
+Ok, also got the .zip for SMC2017 from Fabian...
+
+$ unzip -l SMC17_Proc_Pt1.zip | grep '\.pdf' | grep -v 'MACOSX' | nl
+     1	   239932  2017-07-05 14:18   SMC17_Proc_Pt1/SMC17_p5.pdf
+     2	   174859  2017-07-05 14:20   SMC17_Proc_Pt1/SMC17_p13.pdf
+     3	   140682  2017-07-05 14:21   SMC17_Proc_Pt1/SMC17_p21.pdf
+     4	   105231  2017-07-05 14:21   SMC17_Proc_Pt1/SMC17_p28.pdf
+     5	   316093  2017-07-05 14:22   SMC17_Proc_Pt1/SMC17_p35.pdf
+     6	   384965  2017-07-05 14:23   SMC17_Proc_Pt1/SMC17_p42.pdf
+     7	   698131  2017-07-05 14:23   SMC17_Proc_Pt1/SMC17_p50.pdf
+     8	   330043  2017-07-05 14:24   SMC17_Proc_Pt1/SMC17_p58.pdf
+     9	   301468  2017-07-05 14:24   SMC17_Proc_Pt1/SMC17_p63.pdf
+    10	   198358  2017-07-05 14:25   SMC17_Proc_Pt1/SMC17_p71.pdf
+    11	   172764  2017-07-05 14:26   SMC17_Proc_Pt1/SMC17_p77.pdf
+    12	   130485  2017-07-05 14:41   SMC17_Proc_Pt1/SMC17_p85.pdf
+    13	   104719  2017-07-05 14:42   SMC17_Proc_Pt1/SMC17_p92.pdf
+    14	   209402  2017-07-05 14:42   SMC17_Proc_Pt1/SMC17_p98.pdf
+    15	   120820  2017-07-05 14:43   SMC17_Proc_Pt1/SMC17_p104.pdf
+    16	   236650  2017-07-05 14:43   SMC17_Proc_Pt1/SMC17_p110.pdf
+    17	   228080  2017-07-05 14:46   SMC17_Proc_Pt1/SMC17_p117.pdf
+    18	   271201  2017-07-05 14:47   SMC17_Proc_Pt1/SMC17_p125.pdf
+    19	   255148  2017-07-05 14:47   SMC17_Proc_Pt1/SMC17_p133.pdf
+    20	   182040  2017-07-05 14:48   SMC17_Proc_Pt1/SMC17_p139.pdf
+    21	   718265  2017-07-05 14:48   SMC17_Proc_Pt1/SMC17_p145.pdf
+    22	   230632  2017-07-05 14:49   SMC17_Proc_Pt1/SMC17_p153.pdf
+    23	   596104  2017-07-05 14:50   SMC17_Proc_Pt1/SMC17_p159.pdf
+    24	  1074676  2017-07-05 14:52   SMC17_Proc_Pt1/SMC17_p167.pdf
+    25	   232270  2017-07-05 14:52   SMC17_Proc_Pt1/SMC17_p175.pdf
+    26	   330566  2017-07-05 14:53   SMC17_Proc_Pt1/SMC17_p181.pdf
+    27	   170675  2017-07-05 14:54   SMC17_Proc_Pt1/SMC17_p188.pdf
+    28	 17000429  2018-06-20 22:22   SMC17_Proc_Pt1/SMC17_p195_Errata.pdf
+    29	  9319053  2017-07-05 14:55   SMC17_Proc_Pt1/SMC17_p195.pdf
+    30	   194181  2017-07-05 14:55   SMC17_Proc_Pt1/SMC17_p200.pdf
+    31	   140667  2017-07-05 14:56   SMC17_Proc_Pt1/SMC17_p208.pdf
+    32	   193299  2017-12-18 10:39   SMC17_Proc_Pt1/SMC17_p214_Errata.pdf
+
+$ unzip -l SMC17_Proc_Pt2.zip | grep '\.pdf' | grep -v 'MACOSX' | nl
+     1	   454577  2017-07-05 18:47   SMC17_Proc_Pt2/SMC17_p214.pdf
+     2	   278984  2017-07-05 18:48   SMC17_Proc_Pt2/SMC17_p220.pdf
+     3	   218131  2017-07-05 18:48   SMC17_Proc_Pt2/SMC17_p227.pdf
+     4	   199733  2017-07-05 18:49   SMC17_Proc_Pt2/SMC17_p234.pdf
+     5	   194435  2017-07-05 18:49   SMC17_Proc_Pt2/SMC17_p242.pdf
+     6	   227022  2017-07-05 18:50   SMC17_Proc_Pt2/SMC17_p250.pdf
+     7	   219452  2017-07-05 18:50   SMC17_Proc_Pt2/SMC17_p254.pdf
+     8	   329928  2017-07-05 18:51   SMC17_Proc_Pt2/SMC17_p261.pdf
+     9	   110033  2017-07-05 18:51   SMC17_Proc_Pt2/SMC17_p267.pdf
+    10	   119179  2017-07-05 18:51   SMC17_Proc_Pt2/SMC17_p275.pdf
+    11	   430481  2017-07-05 18:52   SMC17_Proc_Pt2/SMC17_p279.pdf
+    12	   261685  2017-07-05 18:52   SMC17_Proc_Pt2/SMC17_p287.pdf
+    13	   332869  2017-07-05 18:53   SMC17_Proc_Pt2/SMC17_p294.pdf
+    14	   217668  2017-07-05 18:53   SMC17_Proc_Pt2/SMC17_p299.pdf
+    15	   216351  2017-07-05 18:54   SMC17_Proc_Pt2/SMC17_p306.pdf
+    16	   164448  2017-07-05 18:54   SMC17_Proc_Pt2/SMC17_p314.pdf
+    17	   372427  2017-11-01 10:22   SMC17_Proc_Pt2/SMC17_p320.pdf
+    18	   174549  2017-07-05 18:55   SMC17_Proc_Pt2/SMC17_p328.pdf
+    19	   346584  2017-07-05 18:55   SMC17_Proc_Pt2/SMC17_p336.pdf
+    20	   293259  2017-07-05 18:56   SMC17_Proc_Pt2/SMC17_p343.pdf
+    21	   995006  2017-07-05 18:57   SMC17_Proc_Pt2/SMC17_p351.pdf
+    22	   323032  2017-07-05 19:00   SMC17_Proc_Pt2/SMC17_p359.pdf
+    23	   243306  2017-07-05 19:12   SMC17_Proc_Pt2/SMC17_p365.pdf
+    24	   152817  2017-07-05 19:12   SMC17_Proc_Pt2/SMC17_p373.pdf
+    25	   235267  2017-07-05 19:13   SMC17_Proc_Pt2/SMC17_p380.pdf
+    26	   200416  2017-07-05 19:13   SMC17_Proc_Pt2/SMC17_p386.pdf
+    27	   410694  2017-07-05 19:13   SMC17_Proc_Pt2/SMC17_p391.pdf
+    28	   166351  2017-07-05 19:14   SMC17_Proc_Pt2/SMC17_p399.pdf
+    29	   199391  2017-07-05 19:14   SMC17_Proc_Pt2/SMC17_p407.pdf
+    30	   164715  2017-07-05 19:15   SMC17_Proc_Pt2/SMC17_p415.pdf
+    31	   133728  2017-07-05 19:15   SMC17_Proc_Pt2/SMC17_p422.pdf
+    32	   186855  2017-07-05 19:15   SMC17_Proc_Pt2/SMC17_p429.pdf
+    33	   605195  2017-07-05 19:16   SMC17_Proc_Pt2/SMC17_p434.pdf
+    34	   257789  2017-07-05 19:16   SMC17_Proc_Pt2/SMC17_p443.pdf
+    35	   558364  2017-07-05 19:17   SMC17_Proc_Pt2/SMC17_p450.pdf
+
+so, 32+35 = 67 ; but, there are two Erratas here - so it matches the 65 papers I have...
+
+Btw, the website only shows one Errata: http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p214_Errata.pdf - it doesn't have the SMC17_Proc_Pt1/SMC17_p195_Errata.pdf ...
+
+Ok, posted a Github issue about this:
+
+[Recommended way for adding Errata to articles? · Issue #1585 · zenodo/zenodo · GitHub](https://github.com/zenodo/zenodo/issues/1585)
+
+Also, in the 65 PDFs so far that I got, there's no Erratas, so that is good...
+
+Ok, ready to try upload now...
+
+Did run `python3 papers-check-bib-consistency.py | less` -> not sure what this was about, but it still detects stuff in the older .bibs...
+
+Did `python3 papers-sync-id-nporder.py` -> "Changed 0 bib entry id/keys." ; so, it looks OK
+
+Did:
+
+$ python3 papers-check-missing-pdf.py
+
+Report: existing entries (found/missing):
+01_SMC Conference 2016: 79 (79/0)
+02_SMC Conference 2015: 151 (151/0)
+03_SMC Conference 2014 (Joint with ICMC): 432 (432/0)
+04_SMC Conference 2013: 550 (550/0)
+05_SMC Conference 2012: 625 (625/0)
+06_SMC Conference 2011: 704 (704/0)
+07_SMC Conference 2010: 777 (777/0)
+08_SMC Conference 2009: 840 (840/0)
+09_SMC Conference 2008: 874 (874/0)
+10_SMC Conference 2007: 939 (939/0)
+11_SMC Conference 2006: 965 (965/0)
+12_SMC Conference 2005: 998 (997/1)
+13_SMC Conference 2004: 1050 (1043/7)
+SMC Conference 2017: 1115 (1108/7)
+
+Totals: 10099 (10084/15)
+
+... so, apparently nothing is missing (1115-1050 = 65; 1108-1043 = 65;) from SMC Conference 2017 - good...
+
+
+----------------
+('_DATA_/SMC Conference 2017/SMC Conference 2017.bib', True)
+SMC Conference 2017:001/65: OK
+----------------
+SMC Conference 2017:002/65: OK
+----------------
+SMC Conference 2017:003/65: OK
+----------------
+SMC Conference 2017:004/65: C1 (198) orig 'Sebastià V. Amengual Garí and Malte Kob and Tapio Lokki'
+>>>>>>>>>>
+Syntax Error: Expected the optional content group list, but wasn't able to find it, or it isn't an Array
+                Proceedings of the 14th Sound and Music Computing Conference, July 5-8, Espoo, Finland
+       Investigations on stage acoustic preferences of solo trumpet players using
+                                    virtual acoustics
+
+               Sebastià V. Amengual Garí                                        Malte Kob                              Tapio Lokki
+               Detmold University of Music                               Detmold University of Music                 Aalto University
+             amengual@hfm-detmold.de                                      kob@hfm-detmold.de                     tapio.lokki@aalto.fi
+.... (so this is OK) ...
+...
+SMC Conference 2017:009/65: OK
+----------------
+SMC Conference 2017:010/65: C2 (199) orig 'Leo McCormack and Vesa Välimäki'
+>>>>>>>>>>
+Syntax Error: Expected the optional content group list, but wasn't able to find it, or it isn't an Array
+                  Proceedings of the 14th Sound and Music Computing Conference, July 5-8, Espoo, Finland
+
+
+
+                                FFT-BASED DYNAMIC RANGE COMPRESSION
+
+                                                         Leo McCormack and Vesa V¨alim¨aki
+... (this OK, too) ...
+...
+SMC Conference 2017:016/65: C1 (200) orig 'Pierre Beauguitte and Bryan Duggan and John D. Kelleher'
+>>>>>>>>>>
+Syntax Error: Expected the optional content group list, but wasn't able to find it, or it isn't an Array
+                Proceedings of the 14th Sound and Music Computing Conference, July 5-8, Espoo, Finland
+
+
+
+     KEY INFERENCE FROM IRISH TRADITIONAL MUSIC SCORES AND
+                          RECORDINGS
+
+              Pierre Beauguitte                                                 Bryan Duggan                           John D. Kelleher
+         Dublin Institute of Technology                                  Dublin Institute of Technology          Dublin Institute of Technology
+... (OK) ...
+----------------
+SMC Conference 2017:017/65: C1 (201) orig 'Jeffrey M. Morris'
+... (OK) ...
+SMC Conference 2017:021/65: C1 (202) orig 'Jose J. Valero-Mas and José M. Iñesta'
+... (OK) ...
+SMC Conference 2017:024/65: C2 (203) orig 'Peter Lennox and Ian McKenzie'
+... (OK) ...
+SMC Conference 2017:025/65: C1 (204) orig 'Charles P. Martin and Jim Torresen'
+... (OK) ...
+SMC Conference 2017:026/65: C1 (205) orig 'Peter Ahrendt and Christian C. Bach and Sofia Dahl'
+... (OK) ...
+SMC Conference 2017:044/65: C1 (206) orig 'Rod Selfridge and David Moffat and Joshua D. Reiss'
+... (OK) ...
+SMC Conference 2017:049/65: C1 (207) orig 'Fabián Esqueda and Henri Pöntynen and Julian D. Parker and Stefan Bilbao'
+... (OK) ...
+SMC Conference 2017:054/65: C2 (208) orig 'Andrew McLeod and Mark Steedman'
+... (OK) ...
+SMC Conference 2017:062/65: C1 (209) orig 'Johnty Wang and Robert Pritchard and Bryn Nixon and Marcelo M. Wanderley'
+... (OK) ...
+SMC Conference 2017:065/65: C12 (210) orig 'Jennifer MacRitchie and Andrew J. Milne'
+... (OK) ...
+
+OK, so names are OK too...
+
+Ok, now just to do the put/publish script - probably should do the publish immediately?! Otherwise, the API will return all possible unaccepted - even those that are not from the SMC2017 batch... And since there is an error on the site for a single year search... hmm...
+
+Ok, let's put/upload first - then if need be, will publish manually...
+
+Ok, can still access the API with my old key in the scripts...
+
+NOTE: titlecase had been applied like this here:
+./papers-get-smc2017.aalto.fi.py:    confpaperbibentry['title'] = titlecase(confpaperbibentry['origtitle'].lower())
+... but actually, here the titles are correct, so we didn't have to do that, actually... since it messes up "HMM and DMM" parts of titles!
+So, created papers-bib-restore-origtitle.py script...
+Ok, titles restored now...
+
+Seems ready to put/upload...
+
+Crap, got this:
+
+TypeError: request() got an unexpected keyword argument 'json'
+
+
+.. ah, that is due to:
+
+# note, if you cannot install newer requests, this should run in virtualenv (source py3env/bin/activate ...)!
+# with older requests, will get: request() got an unexpected keyword argument 'json' (see https://github.com/jeffwidman/bitbucket-issue-migration/issues/61)
+
+> I am not able to update it through pip, as its apt-get package is used by the ubuntu-desktop itself x___x
+
+sudo apt-get install python-virtualenv
+virtualenv -p /usr/bin/python3 py3env
+source py3env/bin/activate
+pip install requests
+# pip install lxml # will fail here, see https://stackoverflow.com/questions/13019942/why-cant-i-get-pip-install-lxml-to-work-within-a-virtualenv
+sudo apt-get install libxml2-dev libxslt-dev  # in my case, only installed libxslt1-dev
+pip install lxml
+pip install bibtexparser
+
+
+(py3env)administrator@TMPHIST:2017_smc_zenodo$ which python3
+/media/data1/work/aau/smc_proc/2017_smc_zenodo/py3env/bin/python3
+## OK, so in py3env:
+
+(py3env)administrator@TMPHIST:2017_smc_zenodo$ python3 papers-put-zenodo-smc2017.aalto.fi.py 2>&1 | tee _put_2017.log
+
+Hmm... looks like they got uploaded, but they don't show neither under View nor under Curate?!
+
+Hm...
+
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Takeshi Hori'},
+                           {'name': 'Kazuyuki Nakamura'},
+                           {'name': 'Shigeki Sagayama'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Jazz Piano Trio Synthesizing System Based on HMM '
+                       'and DNN',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401861
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_002.pdf'...
+201
+--- 0003 ---------------------( 2018-08-22 14:10:52 )
+
+
+https://zenodo.org/record/1401861 -> Page not found...
+
+Hmm:
+http://developers.zenodo.org/#http-status-codes
+
+200 	OK 	Request succeeded. Response included. Usually sent for GET/PUT/PATCH requests.
+201 	Created 	Request succeeded. Response included. Usually sent for POST requests.
+
+Ok, made zenodo-api-check.py - and with it, can see the uploads seem to be there:
+
+ {'conceptrecid': '1401860',
+  'created': '2018-08-22T12:10:51.114611',
+  'files': [{'checksum': '34f1af1dd923270e55793ab3bd6b33b3',
+             'filename': 'smc_2017_002.pdf',
+             'filesize': 230632,
+             'id': 'e2845c3b-4599-47ac-a5ed-a53ab50b6707',
+             'links': {'download': 'https://zenodo.org/api/files/7ea6a756-fbd8-49e6-9a9b-d48e01adc602/smc_2017_002.p
+df',
+                       'self': 'https://zenodo.org/api/deposit/depositions/1401343/files/e2845c3b-4599-47ac-a5ed-a53
+ab50b6707'}}],
+  'id': 1401861,
+  'links': {'bucket': 'https://zenodo.org/api/files/7ea6a756-fbd8-49e6-9a9b-d48e01adc602',
+            'discard': 'https://zenodo.org/api/deposit/depositions/1401861/actions/discard',
+            'edit': 'https://zenodo.org/api/deposit/depositions/1401861/actions/edit',
+            'files': 'https://zenodo.org/api/deposit/depositions/1401861/files',
+            'html': 'https://zenodo.org/deposit/1401861',
+            'latest_draft': 'https://zenodo.org/api/deposit/depositions/1401861',
+            'latest_draft_html': 'https://zenodo.org/deposit/depositions/1401861',
+            'publish': 'https://zenodo.org/api/deposit/depositions/1401861/actions/publish',
+            'self': 'https://zenodo.org/api/deposit/depositions/1401861'},
+  'metadata': {'access_right': 'open',
+               'communities': [{'identifier': 'smc'}],
+               'conference_acronym': 'SMC2017',
+               'conference_dates': '5-8 July',
+               'conference_place': 'Espoo, Finland',
+               'conference_title': '14th Sound and Music Computing '
+                                   'Conference',
+               'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+               'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                                {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                                {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+               'creators': [{'name': 'Takeshi Hori'},
+                            {'name': 'Kazuyuki Nakamura'},
+                            {'name': 'Shigeki Sagayama'}],
+               'description': '(Abstract to follow)',
+               'license': 'CC-BY-4.0',
+               'prereserve_doi': {'doi': '10.5281/zenodo.1401861',
+                                  'recid': 1401861},
+               'publication_date': '2017-07-05',
+               'publication_type': 'conferencepaper',
+               'related_identifiers': [{'identifier': '2518-3672',
+                                        'relation': 'isPartOf',
+                                        'scheme': 'issn'},
+                                       {'identifier': '978-952-60-3729-5',
+                                        'relation': 'isPartOf',
+                                        'scheme': 'isbn'}],
+               'title': 'Jazz Piano Trio Synthesizing System Based on HMM '
+                        'and DNN',
+               'upload_type': 'publication'},
+  'modified': '2018-08-22T12:10:52.751323',
+  'owner': 34988,
+  'record_id': 1401861,
+  'state': 'unsubmitted',
+  'submitted': False,
+  'title': 'Jazz Piano Trio Synthesizing System Based on HMM and DNN'},
+
+Ah-ha, it is there - except on https://zenodo.org/deposit/1401861 -> not on https://zenodo.org/record/1401861 (because it is not published...)
+
+I can get a list with https://zenodo.org/deposit ...
+currently:
+Drafts 73 Published 1050
+
+crap: [search: queries for nested fields not possible · Issue #1508 · zenodo/zenodo · GitHub](https://github.com/zenodo/zenodo/issues/1508)
+
+> A query_string such as related_identifiers.relation:"isPartOf" AND related_identifiers.identifier:"10.1234/foo.123",
+> won't actually work as expected, since the related_identifiers field is of type nested, and cannot be part of a query_string search (contrary to object-type fields like resource_type, which are fine to include in a query_string). The choice to make the field nested is correct though for its purpose (see ES docs).
+>
+> (It might be worth updating the search guide available fields reference, and remove any nested fields...)
+>
+> To actually make the query work one would have to include a nested query, which of course is not possible using the current search factory.
+
+uh... but  'q': 'SMC2017', # this works! returns 65, as it should
+....
+
+Also, cannot find my publish key either :(
+
+[Cannot see my personal access token in Zenodo · Issue #1586 · zenodo/zenodo · GitHub](https://github.com/zenodo/zenodo/issues/1586)
+
+But wait - papers-put-zenodo-publish-smc2017.aalto.fi.py passed with my old token!? Which should NOT have supported publish?!
+
+However, it ALSO published the Bach10 Separation SMC2017 https://zenodo.org/record/344499 dataset?! and
+[Supplementary materials for the paper "pch2csd: an application for converting Nord Modular G2 patches into Csound code"](https://zenodo.org/record/581204)
+
+When searching for SMC2017, 69 records appear, the book, the above two - so 66 remain, not sure what is that 1 extra one...
+
+Oh well, that seems to be it for the SMC2017 papers...
+
+======
+
+OK, uploading SMC2018 proceedings...
+
+Got SMC2018_Proceedings_ISBN_30082018.pdf -> renamed to Proceedings_SMC18_ISBN_30082018.pdf
+
+Ok, book uploaded here: https://zenodo.org/record/1408596
+

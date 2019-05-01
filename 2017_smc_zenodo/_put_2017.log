@@ -1,0 +1,2084 @@
+Accessing API...
+Status: 200
+Traversing all .bib directories, uploading all papers (2018-08-22 14:10:48)...
+('_DATA_/SMC Conference 2017/SMC Conference 2017.bib', True)
+--- 0001 ---------------------( 2018-08-22 14:10:48 )
+{'filename': 'smc_2017_001.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_001.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Rolf Inge Godøy'},
+                           {'name': 'Minho Song'},
+                           {'name': 'Sofia Dahl'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Exploring Sound-Motion Textures in Drum Set '
+                       'Performance',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401859
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_001.pdf'...
+201
+--- 0002 ---------------------( 2018-08-22 14:10:50 )
+{'filename': 'smc_2017_002.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_002.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Takeshi Hori'},
+                           {'name': 'Kazuyuki Nakamura'},
+                           {'name': 'Shigeki Sagayama'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Jazz Piano Trio Synthesizing System Based on HMM '
+                       'and DNN',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401861
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_002.pdf'...
+201
+--- 0003 ---------------------( 2018-08-22 14:10:52 )
+{'filename': 'smc_2017_003.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_003.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Bochen Li'},
+                           {'name': 'Chenliang Xu'},
+                           {'name': 'Zhiyao Duan'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Audio-Visual Source Association for String '
+                       'Ensembles through Multi-Modal Vibrato Analysis',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401863
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_003.pdf'...
+201
+--- 0004 ---------------------( 2018-08-22 14:10:55 )
+{'filename': 'smc_2017_004.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_004.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Sebastià V. Amengual Garí'},
+                           {'name': 'Malte Kob'},
+                           {'name': 'Tapio Lokki'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Investigations on Stage Acoustic Preferences of '
+                       'Solo Trumpet Players using Virtual Acoustics',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401865
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_004.pdf'...
+201
+--- 0005 ---------------------( 2018-08-22 14:10:56 )
+{'filename': 'smc_2017_005.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_005.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Victor Lazzarini'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'The design of a lightweight DSP programming library',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401867
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_005.pdf'...
+201
+--- 0006 ---------------------( 2018-08-22 14:10:59 )
+{'filename': 'smc_2017_006.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_006.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Luca Turchet'},
+                           {'name': 'Carlo Fischione'},
+                           {'name': 'Mathieu Barthet'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Towards the internet of musical things',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401869
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_006.pdf'...
+201
+--- 0007 ---------------------( 2018-08-22 14:11:00 )
+{'filename': 'smc_2017_007.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_007.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Dario Sanfilippo'},
+                           {'name': 'Agostino Di Scipio'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Environment-Mediated Coupling of Autonomous '
+                       'Sound-Generating Systems in Live Performance: An '
+                       'Overview of the Machine Milieu Project',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401871
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_007.pdf'...
+201
+--- 0008 ---------------------( 2018-08-22 14:11:02 )
+{'filename': 'smc_2017_008.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_008.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Oliver Hödl'},
+                           {'name': 'Geraldine Fitzpatrick'},
+                           {'name': 'Fares Kayali'},
+                           {'name': 'Simon Holland'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Design Implications for Technology-Mediated '
+                       'Audience Participation in Live Music',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401873
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_008.pdf'...
+201
+--- 0009 ---------------------( 2018-08-22 14:11:05 )
+{'filename': 'smc_2017_009.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_009.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Hirofumi Takamori'},
+                           {'name': 'Haruki Sato'},
+                           {'name': 'Takayuki Nakatsuka'},
+                           {'name': 'Shigeo Morishima'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Automatic Arranging Musical Score for Piano using '
+                       'Important Musical Elements',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401875
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_009.pdf'...
+201
+--- 0010 ---------------------( 2018-08-22 14:11:06 )
+{'filename': 'smc_2017_010.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_010.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Leo McCormack'},
+                           {'name': 'Vesa Välimäki'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'FFT-based Dynamic Range Compression',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401877
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_010.pdf'...
+201
+--- 0011 ---------------------( 2018-08-22 14:11:09 )
+{'filename': 'smc_2017_011.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_011.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Hanns Holger Rutz'},
+                           {'name': 'Robert Höldrich'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'A Sonification Interface Unifying Real-Time and '
+                       'Offline Processing',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401879
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_011.pdf'...
+201
+--- 0012 ---------------------( 2018-08-22 14:11:11 )
+{'filename': 'smc_2017_012.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_012.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Manuel Brásio'},
+                           {'name': 'Filipe Lopes'},
+                           {'name': 'Gilberto Bernardes'},
+                           {'name': 'Rui Penha'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'QUALIA: A Software for Guided Meta-Improvisation '
+                       'Performance',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401881
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_012.pdf'...
+201
+--- 0013 ---------------------( 2018-08-22 14:11:12 )
+{'filename': 'smc_2017_013.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_013.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Eduardo Micheloni'},
+                           {'name': 'Marcella Mandanici'},
+                           {'name': 'Antonio Rodà'},
+                           {'name': 'Sergio Canazza'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Interactive Painting Sonification Using a '
+                       'Sensor-Equipped Runway',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401883
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_013.pdf'...
+201
+--- 0014 ---------------------( 2018-08-22 14:11:14 )
+{'filename': 'smc_2017_014.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_014.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Matteo Lionello'},
+                           {'name': 'Marcella Mandanici'},
+                           {'name': 'Sergio Canazza'},
+                           {'name': 'Edoardo Micheloni'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Interactive Soundscapes: Developing a Physical '
+                       'Space Augmented through Dynamic Sound Rendering and '
+                       'Granular Synthesis',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401885
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_014.pdf'...
+201
+--- 0015 ---------------------( 2018-08-22 14:11:16 )
+{'filename': 'smc_2017_015.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_015.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Anne-Marie Burns'},
+                           {'name': 'Sébastien Bel'},
+                           {'name': 'Caroline Traube'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Learning to Play the Guitar at the Age of '
+                       'Interactive and Collaborative Web Technologies',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401887
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_015.pdf'...
+201
+--- 0016 ---------------------( 2018-08-22 14:11:18 )
+{'filename': 'smc_2017_016.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_016.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Pierre Beauguitte'},
+                           {'name': 'Bryan Duggan'},
+                           {'name': 'John D. Kelleher'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Key Inference from Irish Traditional Music Scores '
+                       'and Recordings',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401889
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_016.pdf'...
+201
+--- 0017 ---------------------( 2018-08-22 14:11:19 )
+{'filename': 'smc_2017_017.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_017.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Jeffrey M. Morris'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Ferin Martino’s Tour: Lessons from Adapting the '
+                       'Same Algorithmic Art Installation to Different '
+                       'Venues and Platforms',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401891
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_017.pdf'...
+201
+--- 0018 ---------------------( 2018-08-22 14:11:22 )
+{'filename': 'smc_2017_018.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_018.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Tejaswinee Kelkar'},
+                           {'name': 'Alexander Refsum Jensenius'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Exploring Melody and Motion Features in '
+                       '“Sound-Tracings”',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401893
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_018.pdf'...
+201
+--- 0019 ---------------------( 2018-08-22 14:11:24 )
+{'filename': 'smc_2017_019.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_019.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Ryan Kirkbride'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Troop: A Collaborative Tool for Live Coding',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401895
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_019.pdf'...
+201
+--- 0020 ---------------------( 2018-08-22 14:11:26 )
+{'filename': 'smc_2017_020.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_020.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Yusuke Wada'},
+                           {'name': 'Yoshiaki Bando'},
+                           {'name': 'Eita Nakamura'},
+                           {'name': 'Katsutoshi Itoyama'},
+                           {'name': 'Kazuyoshi Yoshii'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'An Adaptive Karaoke System that Plays Accompaniment '
+                       'Parts of Music Audio Signals Synchronously with '
+                       "Users' Singing Voices",
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401897
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_020.pdf'...
+201
+--- 0021 ---------------------( 2018-08-22 14:11:28 )
+{'filename': 'smc_2017_021.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_021.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Jose J. Valero-Mas'},
+                           {'name': 'José M. Iñesta'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Experimental Assessment of Descriptive Statistics '
+                       'and Adaptive Methodologies for Threshold '
+                       'Establishment in Onset Selection Functions',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401899
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_021.pdf'...
+201
+--- 0022 ---------------------( 2018-08-22 14:11:30 )
+{'filename': 'smc_2017_022.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_022.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Raul Masu'},
+                           {'name': 'Andrea Conci'},
+                           {'name': 'Cristina Core'},
+                           {'name': 'Antonella de Angeli'},
+                           {'name': 'Fabio Morreale'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Robinflock: a Polyphonic Algorithmic Composer for '
+                       'Interactive Scenarios with Children',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401901
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_022.pdf'...
+201
+--- 0023 ---------------------( 2018-08-22 14:11:31 )
+{'filename': 'smc_2017_023.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_023.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Philippe Kocher'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Technology-Assisted Performance of Polytemporal '
+                       'Music',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401903
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_023.pdf'...
+201
+--- 0024 ---------------------( 2018-08-22 14:11:33 )
+{'filename': 'smc_2017_024.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_024.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Peter Lennox'},
+                           {'name': 'Ian McKenzie'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Investigating Spatial Music Qualia through Tissue '
+                       'Conduction',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401905
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_024.pdf'...
+201
+--- 0025 ---------------------( 2018-08-22 14:11:35 )
+{'filename': 'smc_2017_025.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_025.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Charles P. Martin'},
+                           {'name': 'Jim Torresen'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Exploring Social Mobile Music with Tiny '
+                       'Touch-Screen Performances',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401907
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_025.pdf'...
+201
+--- 0026 ---------------------( 2018-08-22 14:11:37 )
+{'filename': 'smc_2017_026.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_026.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Peter Ahrendt'},
+                           {'name': 'Christian C. Bach'},
+                           {'name': 'Sofia Dahl'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Does Singing a Low-Pitch Tone Make You Look Angrier?',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401909
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_026.pdf'...
+201
+--- 0027 ---------------------( 2018-08-22 14:11:39 )
+{'filename': 'smc_2017_027.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_027.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Juan Carlos Vasquez'},
+                           {'name': 'Koray Tahiroğlu'},
+                           {'name': 'Niklas Pöllönen'},
+                           {'name': 'Johan Kildal'},
+                           {'name': 'Teemu Ahmaniemi'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Monitoring and Supporting Engagement in Skilled '
+                       'Tasks: From Creative Musical Activity to '
+                       'Psychological Wellbeing',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401911
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_027.pdf'...
+201
+--- 0028 ---------------------( 2018-08-22 14:11:41 )
+{'filename': 'smc_2017_028.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_028.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Alexander Refsum Jensenius'},
+                           {'name': 'Agata Zelechowska'},
+                           {'name': 'Victor Gonzalez Sanchez'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': "The Musical Influence on People's Micromotion when "
+                       'Standing Still in Groups',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401913
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_028.pdf'...
+201
+--- 0029 ---------------------( 2018-08-22 14:11:44 )
+{'filename': 'smc_2017_029.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_029.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Zhiyan Duan'},
+                           {'name': 'Chitralekha Gupta'},
+                           {'name': 'Graham Percival'},
+                           {'name': 'David Grunberg'},
+                           {'name': 'Ye Wang'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'SECCIMA: Singing and Ear Training for Children with '
+                       'Cochlear Implants via a Mobile Application',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401915
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_029.pdf'...
+201
+--- 0030 ---------------------( 2018-08-22 14:11:46 )
+{'filename': 'smc_2017_030.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_030.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Miroslav Malik'},
+                           {'name': 'Sharath Adavanne'},
+                           {'name': 'Konstantinos Drossos'},
+                           {'name': 'Tuomas Virtanen'},
+                           {'name': 'Dasa Ticha'},
+                           {'name': 'Roman Jarina'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Stacked Convolutional and Recurrent Neural Networks '
+                       'for Music Emotion Recognition',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401917
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_030.pdf'...
+201
+--- 0031 ---------------------( 2018-08-22 14:11:48 )
+{'filename': 'smc_2017_031.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_031.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Kristian Nymoen'},
+                           {'name': 'Anne Danielsen'},
+                           {'name': 'Justin London'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Validating Attach Phase Descriptors Obtained by the '
+                       'Timbre Toolbox and MIRtoolbox',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401919
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_031.pdf'...
+201
+--- 0032 ---------------------( 2018-08-22 14:11:50 )
+{'filename': 'smc_2017_032.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_032.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Jongpil Lee'},
+                           {'name': 'Jiyoung Park'},
+                           {'name': 'Keunhyoung Luke Kim'},
+                           {'name': 'Juhan Nam'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Sample-Level Deep Convolutional Neural Networks for '
+                       'Music Auto-Tagging Using Raw Waveforms',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401921
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_032.pdf'...
+201
+--- 0033 ---------------------( 2018-08-22 14:11:53 )
+{'filename': 'smc_2017_033.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_033.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Marius Miron'},
+                           {'name': 'Jordi Janer'},
+                           {'name': 'Emilia Gómez'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Generating Data to Train Convolutional Neural '
+                       'Networks for Classical Music Source Separation',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401923
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_033.pdf'...
+201
+--- 0034 ---------------------( 2018-08-22 14:11:54 )
+{'filename': 'smc_2017_034.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_034.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Marian Weger'},
+                           {'name': 'David Pirrò'},
+                           {'name': 'Robert Höldrich'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Evaluation of an Acoustic Interface for Tremor '
+                       'Analysis',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401925
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_034.pdf'...
+201
+--- 0035 ---------------------( 2018-08-22 14:11:56 )
+{'filename': 'smc_2017_035.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_035.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Emma Frid'},
+                           {'name': 'Roberto Bresin'},
+                           {'name': 'Eva-Lotta Sallnäs Pysander'},
+                           {'name': 'Jonas Moll'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'An Exploratory Study on the Effect of Auditory '
+                       'Feedback on Gaze Behavior in a Virtual Throwing '
+                       'Task with and without Haptic Feedback',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401927
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_035.pdf'...
+201
+--- 0036 ---------------------( 2018-08-22 14:11:59 )
+{'filename': 'smc_2017_036.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_036.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Felipe Orduña-Bustamante'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Auralization in Space and in Rooms of Arbitrary D '
+                       'Dimensions',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401929
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_036.pdf'...
+201
+--- 0037 ---------------------( 2018-08-22 14:12:00 )
+{'filename': 'smc_2017_037.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_037.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Federico Fontana'},
+                           {'name': 'Debora Scappin'},
+                           {'name': 'Federico Avanzini'},
+                           {'name': 'Mattia Bernardi'},
+                           {'name': 'Devid Bianco'},
+                           {'name': 'Giorgio Klauer'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Auditory, Visual and Somatosensory Localization of '
+                       'Piano Tones: a Preliminary Study',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401931
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_037.pdf'...
+201
+--- 0038 ---------------------( 2018-08-22 14:12:02 )
+{'filename': 'smc_2017_038.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_038.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Otso Lähdeoja'},
+                           {'name': 'Josué Moreno'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'SONIC GREENHOUSE - Considerations on a Large-Scale '
+                       'Audio-Architectural Installation',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401933
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_038.pdf'...
+201
+--- 0039 ---------------------( 2018-08-22 14:12:04 )
+{'filename': 'smc_2017_039.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_039.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Victor Lazzarini'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'The CSOUND Plugin Opcode Framework',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401935
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_039.pdf'...
+201
+--- 0040 ---------------------( 2018-08-22 14:12:06 )
+{'filename': 'smc_2017_040.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_040.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Johnty Wang'},
+                           {'name': 'Joseph Malloch'},
+                           {'name': 'Stéphane Huot'},
+                           {'name': 'Fanny Chevalier'},
+                           {'name': 'Marcelo Wanderley'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Versioning and Annotation Support for Collaborative '
+                       'Mapping Design',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401939
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_040.pdf'...
+201
+--- 0041 ---------------------( 2018-08-22 14:12:08 )
+{'filename': 'smc_2017_041.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_041.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Yevgen Mexin'},
+                           {'name': 'Aristotelis Hadjakos'},
+                           {'name': 'Axel Berndt'},
+                           {'name': 'Simon Waloschek'},
+                           {'name': 'Anastasia Wawilow'},
+                           {'name': 'Gerd Szwillus'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Tools for Annotatiing Musical Measures in Digital '
+                       'Music Editions',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401941
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_041.pdf'...
+201
+--- 0042 ---------------------( 2018-08-22 14:12:10 )
+{'filename': 'smc_2017_042.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_042.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Liang Chen'},
+                           {'name': 'Christopher Raphael'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Renotation of Optical Music Recognition Data',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401943
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_042.pdf'...
+201
+--- 0043 ---------------------( 2018-08-22 14:12:12 )
+{'filename': 'smc_2017_043.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_043.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Filipe Lopes'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'WALLACE: Composing Music for Variable Reverberation',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401945
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_043.pdf'...
+201
+--- 0044 ---------------------( 2018-08-22 14:12:14 )
+{'filename': 'smc_2017_044.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_044.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Rod Selfridge'},
+                           {'name': 'David Moffat'},
+                           {'name': 'Joshua D. Reiss'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Real-Time Physical Model for Synthesis of Sword '
+                       'Sounds',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401947
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_044.pdf'...
+201
+--- 0045 ---------------------( 2018-08-22 14:12:16 )
+{'filename': 'smc_2017_045.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_045.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Robert Albrecht'},
+                           {'name': 'Jussi Jaatinen'},
+                           {'name': 'Tapio Lokki'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Electronic Hearing Protection for Musicians',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401949
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_045.pdf'...
+201
+--- 0046 ---------------------( 2018-08-22 14:12:18 )
+{'filename': 'smc_2017_046.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_046.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Silvin Willemsen'},
+                           {'name': 'Stefania Serafin'},
+                           {'name': 'Jesper Rindom Jensen'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Virtual Analog Simulation and Extensions of Plate '
+                       'Reverberation',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401951
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_046.pdf'...
+201
+--- 0047 ---------------------( 2018-08-22 14:12:20 )
+{'filename': 'smc_2017_047.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_047.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Augoustinos Tsiros'},
+                           {'name': 'Grégory Leplâtre'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'The Effectiveness of Two Audiovisual Mappings to '
+                       'Control a Concatenative Synthesiser',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401953
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_047.pdf'...
+201
+--- 0048 ---------------------( 2018-08-22 14:12:23 )
+{'filename': 'smc_2017_048.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_048.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Jonas Holfelt'},
+                           {'name': 'Gergely Csapo'},
+                           {'name': 'Nikolaj Andersson'},
+                           {'name': 'Sohejl Zabetian'},
+                           {'name': 'Michael Castanieto'},
+                           {'name': 'Daniel Overholt'},
+                           {'name': 'Sofia Dahl'},
+                           {'name': 'Cumhur Erkut'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Extraction, Mapping, and Evaluation of Expressive '
+                       'Acoustic Features for Adaptive Digital Audio Effects',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401955
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_048.pdf'...
+201
+--- 0049 ---------------------( 2018-08-22 14:12:24 )
+{'filename': 'smc_2017_049.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_049.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Fabián Esqueda'},
+                           {'name': 'Henri Pöntynen'},
+                           {'name': 'Julian D. Parker'},
+                           {'name': 'Stefan Bilbao'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Virtual Analog Model of the Lockhart Wavefolder',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401957
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_049.pdf'...
+201
+--- 0050 ---------------------( 2018-08-22 14:12:26 )
+{'filename': 'smc_2017_050.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_050.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Daniel Bisig'},
+                           {'name': 'Philippe Kocher'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Musical Approaches for Working with Time-Delayed '
+                       'Feedback Networks',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401959
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_050.pdf'...
+201
+--- 0051 ---------------------( 2018-08-22 14:12:28 )
+{'filename': 'smc_2017_051.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_051.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Simone Pappalardo'},
+                           {'name': 'Andrea Valle'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Electric Grammars. Algorithmic Design and '
+                       'Construction of Experimental Music Circuits',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401961
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_051.pdf'...
+201
+--- 0052 ---------------------( 2018-08-22 14:12:30 )
+{'filename': 'smc_2017_052.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_052.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Mitsuyo Hashida'},
+                           {'name': 'Eita Nakamura'},
+                           {'name': 'Haruhiro Katayose'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Constructing PEDB 2nd Edition: A Music Performance '
+                       'Database with Phrase Information',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401963
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_052.pdf'...
+201
+--- 0053 ---------------------( 2018-08-22 14:12:32 )
+{'filename': 'smc_2017_053.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_053.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Martin Hartmann'},
+                           {'name': 'Olivier Lartillot'},
+                           {'name': 'Petri Toiviainen'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Musical Feature and Novelty Curve Characterizations '
+                       'as Predictors of Segmentation Accuracy',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401965
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_053.pdf'...
+201
+--- 0054 ---------------------( 2018-08-22 14:12:34 )
+{'filename': 'smc_2017_054.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_054.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Andrew McLeod'},
+                           {'name': 'Mark Steedman'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Meter Detection in Symbolic Music Using a '
+                       'Lexicalized PCFG',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401967
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_054.pdf'...
+201
+--- 0055 ---------------------( 2018-08-22 14:12:36 )
+{'filename': 'smc_2017_055.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_055.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Taegyun Kwon'},
+                           {'name': 'Dasaem Jeong'},
+                           {'name': 'Juhan Nam'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Audio-to-Score Alignment of Piano Music Using '
+                       'RNN-Based Automatic Music Transcription',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401969
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_055.pdf'...
+201
+--- 0056 ---------------------( 2018-08-22 14:12:38 )
+{'filename': 'smc_2017_056.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_056.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Gen Hori'},
+                           {'name': 'Shigeki Sagayama'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Lp-Viterbi Algorithm for Automatic Fingering '
+                       'Decision',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401971
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_056.pdf'...
+201
+--- 0057 ---------------------( 2018-08-22 14:12:40 )
+{'filename': 'smc_2017_057.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_057.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Andrea Valle'}, {'name': 'Mauro Lanza'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Systema Naturae: Shared Practices Between Physical '
+                       'Computing and Algorithmic Composition',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401973
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_057.pdf'...
+201
+--- 0058 ---------------------( 2018-08-22 14:12:42 )
+{'filename': 'smc_2017_058.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_058.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Ken Déguernel'},
+                           {'name': 'Jérôme Nika'},
+                           {'name': 'Emmanuel Vincent'},
+                           {'name': 'Gérard Assayag'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Generating Equivalent Chord Progressions to Enrich '
+                       'Guided Improvisation: Application to Rhythm Changes',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401975
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_058.pdf'...
+201
+--- 0059 ---------------------( 2018-08-22 14:12:43 )
+{'filename': 'smc_2017_059.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_059.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Torsten Anders'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'A Constraint-Based Framework to Model Harmony for '
+                       'Music Composition',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401977
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_059.pdf'...
+201
+--- 0060 ---------------------( 2018-08-22 14:12:45 )
+{'filename': 'smc_2017_060.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_060.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Gleb Rogozinsky'},
+                           {'name': 'Mihail Chesnokov'},
+                           {'name': 'Eugene Cherny'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'pch2csd: an Application for Converting Nord Modular '
+                       'G2 Patches into Csound Code',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401979
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_060.pdf'...
+201
+--- 0061 ---------------------( 2018-08-22 14:12:47 )
+{'filename': 'smc_2017_061.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_061.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Flavio Everardo'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Towards an Automated Multitrack Mixing Tool Using '
+                       'Answer Set Programming',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401981
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_061.pdf'...
+201
+--- 0062 ---------------------( 2018-08-22 14:12:50 )
+{'filename': 'smc_2017_062.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_062.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Johnty Wang'},
+                           {'name': 'Robert Pritchard'},
+                           {'name': 'Bryn Nixon'},
+                           {'name': 'Marcelo M. Wanderley'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Explorations with Digital Control of MIDI-enabled '
+                       'Pipe Organs',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401983
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_062.pdf'...
+201
+--- 0063 ---------------------( 2018-08-22 14:12:52 )
+{'filename': 'smc_2017_063.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_063.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Léopold Crestel'},
+                           {'name': 'Philippe Esling'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Live Orchestral Piano, a System for Real-Time '
+                       'Orchestral Music Generation',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401985
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_063.pdf'...
+201
+--- 0064 ---------------------( 2018-08-22 14:12:54 )
+{'filename': 'smc_2017_064.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_064.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Yuta Ojima'},
+                           {'name': 'Tomoyasu Nakano'},
+                           {'name': 'Satoru Fukayama'},
+                           {'name': 'Jun Kato'},
+                           {'name': 'Masataka Goto'},
+                           {'name': 'Katsutoshi Itoyama'},
+                           {'name': 'Kazuyoshi Yoshii'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'A Singing Instrument for Real-Time Vocal-Part '
+                       'Arrangement of Music and Audio Signals',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401987
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_064.pdf'...
+201
+--- 0065 ---------------------( 2018-08-22 14:12:56 )
+{'filename': 'smc_2017_065.pdf'}
+{'file': <_io.BufferedReader name='_DATA_/SMC Conference 2017/smc_2017_065.pdf'>}
+{'metadata': {'communities': [{'identifier': 'smc'}],
+              'conference_acronym': 'SMC2017',
+              'conference_dates': '5-8 July',
+              'conference_place': 'Espoo, Finland',
+              'conference_title': '14th Sound and Music Computing Conference',
+              'conference_url': 'http://smc2017.aalto.fi/proceedings.html',
+              'contributors': [{'name': 'Tapio Lokki', 'type': 'Editor'},
+                               {'name': 'Jukka Pätynen', 'type': 'Editor'},
+                               {'name': 'Vesa Välimäki', 'type': 'Editor'}],
+              'creators': [{'name': 'Jennifer MacRitchie'},
+                           {'name': 'Andrew J. Milne'}],
+              'description': '(Abstract to follow)',
+              'publication_date': '2017-07-05',
+              'publication_type': 'conferencepaper',
+              'related_identifiers': [{'identifier': '2518-3672',
+                                       'relation': 'isPartOf'},
+                                      {'identifier': '978-952-60-3729-5',
+                                       'relation': 'isPartOf'}],
+              'title': 'Evaluation of the Learnability and Playability of '
+                       'Pitch Layouts in New Musical Instruments',
+              'upload_type': 'publication'}}
+Create a new empty upload...
+201
+... got record id 1401989
+Doing metadata upload...
+200
+Doing file upload 'smc_2017_065.pdf'...
+201
+Done; start: 2018-08-22 14:10:48 ; end: 2018-08-22 14:12:58 ; duration: 0:02:09.781520

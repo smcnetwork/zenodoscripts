@@ -1,0 +1,2220 @@
+_DATA_/SMC Conference 2018/Proceedings_SMC18_TOC.txt
+77
+001: Concepts and Technologies for Multisensory and Interactive Simulation of Physical Objects - Application to Helios, a musical and visual artwork for the Helicanthe Platform of the ACROE
+001: Claude Cadoz
+001: p.18
+001: /media/data1/work/aau/smc_proc/PapersSMC2018/01.Cadoz.pdf -> _DATA_/SMC Conference 2018/smc_2018_001.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:001',
+ 'author': 'Claude Cadoz',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_001.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '001',
+ 'origtitle': 'Concepts and Technologies for Multisensory and Interactive '
+              'Simulation of Physical Objects - Application to Helios, a '
+              'musical and visual artwork for the Helicanthe Platform of the '
+              'ACROE',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.18',
+ 'publisher': '',
+ 'title': 'Concepts and Technologies for Multisensory and Interactive '
+          'Simulation of Physical Objects - Application to Helios, a musical '
+          'and visual artwork for the Helicanthe Platform of the ACROE',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+002: Perception of Mechanical Sounds Inherent to Expressive Gestures of a NAO Robot - Implications for Movement Sonification of Humanoids
+002: Emma Frid, Roberto Bresin, Simon Alexandersson
+002: p.43
+002: /media/data1/work/aau/smc_proc/PapersSMC2018/02.Frid.pdf -> _DATA_/SMC Conference 2018/smc_2018_002.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:002',
+ 'author': 'Emma Frid and Roberto Bresin and Simon Alexandersson',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_002.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '002',
+ 'origtitle': 'Perception of Mechanical Sounds Inherent to Expressive '
+              'Gestures of a NAO Robot - Implications for Movement '
+              'Sonification of Humanoids',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.43',
+ 'publisher': '',
+ 'title': 'Perception of Mechanical Sounds Inherent to Expressive Gestures '
+          'of a NAO Robot - Implications for Movement Sonification of '
+          'Humanoids',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+003: Stream Segregation: Utilizing Harmonic Variance in Auditory Graphs
+003: Joe Fitzpatrick, Flaithri Neff
+003: p.52
+003: /media/data1/work/aau/smc_proc/PapersSMC2018/03.Fitzpatrick.pdf -> _DATA_/SMC Conference 2018/smc_2018_003.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:003',
+ 'author': 'Joe Fitzpatrick and Flaithri Neff',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_003.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '003',
+ 'origtitle': 'Stream Segregation: Utilizing Harmonic Variance in Auditory '
+              'Graphs',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.52',
+ 'publisher': '',
+ 'title': 'Stream Segregation: Utilizing Harmonic Variance in Auditory Graphs',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+004: CrestMusePEDB 2nd EDITION: MUSIC PERFORMANCE DATABASE WITH PHRASE INFORMATION
+004: Mitsuyo Hashida, Eita Nakamura, Haruhiro Katayose
+004: p.60
+004: /media/data1/work/aau/smc_proc/PapersSMC2018/04.Hashida.pdf -> _DATA_/SMC Conference 2018/smc_2018_004.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:004',
+ 'author': 'Mitsuyo Hashida and Eita Nakamura and Haruhiro Katayose',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_004.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '004',
+ 'origtitle': 'CrestMusePEDB 2nd EDITION: MUSIC PERFORMANCE DATABASE WITH '
+              'PHRASE INFORMATION',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.60',
+ 'publisher': '',
+ 'title': 'CrestMusePEDB 2nd EDITION: MUSIC PERFORMANCE DATABASE WITH PHRASE '
+          'INFORMATION',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+005: Crossing Phrase Boundaries in Music
+005: Zuzana Cenkerova, Martin Hartmann, Petri Toiviainen
+005: p.66
+005: /media/data1/work/aau/smc_proc/PapersSMC2018/05.Cenkerova.pdf -> _DATA_/SMC Conference 2018/smc_2018_005.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:005',
+ 'author': 'Zuzana Cenkerova and Martin Hartmann and Petri Toiviainen',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_005.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '005',
+ 'origtitle': 'Crossing Phrase Boundaries in Music',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.66',
+ 'publisher': '',
+ 'title': 'Crossing Phrase Boundaries in Music',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+006: Perceiving Agent Collaborative Sonic Exploration in Interactive Reinforcement Learning
+006: Hugo Scurto, Frédéric Bevilacqua, Baptiste Caramiaux
+006: p.72
+006: /media/data1/work/aau/smc_proc/PapersSMC2018/06.Scurto.pdf -> _DATA_/SMC Conference 2018/smc_2018_006.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:006',
+ 'author': 'Hugo Scurto and Frédéric Bevilacqua and Baptiste Caramiaux',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_006.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '006',
+ 'origtitle': 'Perceiving Agent Collaborative Sonic Exploration in '
+              'Interactive Reinforcement Learning',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.72',
+ 'publisher': '',
+ 'title': 'Perceiving Agent Collaborative Sonic Exploration in Interactive '
+          'Reinforcement Learning',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+007: Evidence of Lateralization Cues in Grand and Upright Piano Sounds
+007: Federico Fontana, Federico Avanzini, Stefano Papetti
+007: p.80
+007: /media/data1/work/aau/smc_proc/PapersSMC2018/07.Fontana.pdf -> _DATA_/SMC Conference 2018/smc_2018_007.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:007',
+ 'author': 'Federico Fontana and Federico Avanzini and Stefano Papetti',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_007.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '007',
+ 'origtitle': 'Evidence of Lateralization Cues in Grand and Upright Piano '
+              'Sounds',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.80',
+ 'publisher': '',
+ 'title': 'Evidence of Lateralization Cues in Grand and Upright Piano Sounds',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+008: Virtual Reality Exploration with Different Head-Related Transfer Functions
+008: Erik Sikström, Michele Geronazzo, Jari Kleimola, Federico Avanzini, Amalia de Götzen, Stefania Serafin
+008: p.85
+008: /media/data1/work/aau/smc_proc/PapersSMC2018/08.Sikstrom.pdf -> _DATA_/SMC Conference 2018/smc_2018_008.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:008',
+ 'author': 'Erik Sikström and Michele Geronazzo and Jari Kleimola and '
+           'Federico Avanzini and Amalia de Götzen and Stefania Serafin',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_008.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '008',
+ 'origtitle': 'Virtual Reality Exploration with Different Head-Related '
+              'Transfer Functions',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.85',
+ 'publisher': '',
+ 'title': 'Virtual Reality Exploration with Different Head-Related Transfer '
+          'Functions',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+009: A system for spacial audio using synchronized mobile devices
+009: Jan-Torsten Milde
+009: p.93
+009: /media/data1/work/aau/smc_proc/PapersSMC2018/09.Milde.pdf -> _DATA_/SMC Conference 2018/smc_2018_009.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:009',
+ 'author': 'Jan-Torsten Milde',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_009.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '009',
+ 'origtitle': 'A system for spacial audio using synchronized mobile devices',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.93',
+ 'publisher': '',
+ 'title': 'A system for spacial audio using synchronized mobile devices',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+010: Time lapse video sonification; watching and listening to events unfolding
+010: Xenofon Karakonstantis, Konstantinos Bakogiannis, George Cambourakis, Anastasia Georgaki
+010: p.97
+010: /media/data1/work/aau/smc_proc/PapersSMC2018/10.Karakonstantis.pdf -> _DATA_/SMC Conference 2018/smc_2018_010.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:010',
+ 'author': 'Xenofon Karakonstantis and Konstantinos Bakogiannis and George '
+           'Cambourakis and Anastasia Georgaki',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_010.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '010',
+ 'origtitle': 'Time lapse video sonification; watching and listening to '
+              'events unfolding',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.97',
+ 'publisher': '',
+ 'title': 'Time lapse video sonification; watching and listening to events '
+          'unfolding',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+011: Evoking Places from Spaces: The application of Multimodal Narrative Techniques in the Creation of “U - Modified”
+011: Gareth W. Young, Siobhán Mannion, Sara Wentworth
+011: p.103
+011: /media/data1/work/aau/smc_proc/PapersSMC2018/11.Young.pdf -> _DATA_/SMC Conference 2018/smc_2018_011.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:011',
+ 'author': 'Gareth W. Young and Siobhán Mannion and Sara Wentworth',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_011.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '011',
+ 'origtitle': 'Evoking Places from Spaces: The application of Multimodal '
+              'Narrative Techniques in the Creation of “U - Modified”',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.103',
+ 'publisher': '',
+ 'title': 'Evoking Places from Spaces: The application of Multimodal '
+          'Narrative Techniques in the Creation of “U - Modified”',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+012: Towards Creating an Augmented Handpan using Leap Motion
+012: Christine Steinmeier, Dominic Becking
+012: p.108
+012: /media/data1/work/aau/smc_proc/PapersSMC2018/12.Steinmeier.pdf -> _DATA_/SMC Conference 2018/smc_2018_012.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:012',
+ 'author': 'Christine Steinmeier and Dominic Becking',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_012.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '012',
+ 'origtitle': 'Towards Creating an Augmented Handpan using Leap Motion',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.108',
+ 'publisher': '',
+ 'title': 'Towards Creating an Augmented Handpan using Leap Motion',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+013: Inside the intimate zone: The case of aural micro-space in multichannel compositional practice
+013: Nikos Stavropoulos
+013: p.113
+013: /media/data1/work/aau/smc_proc/PapersSMC2018/13.Stavropoulos.pdf -> _DATA_/SMC Conference 2018/smc_2018_013.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:013',
+ 'author': 'Nikos Stavropoulos',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_013.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '013',
+ 'origtitle': 'Inside the intimate zone: The case of aural micro-space in '
+              'multichannel compositional practice',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.113',
+ 'publisher': '',
+ 'title': 'Inside the intimate zone: The case of aural micro-space in '
+          'multichannel compositional practice',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+014: Teaching Programming in Secondary Education through Sound
+014: Theofani Sklirou, Areti Andreopoulou, Anastasia Georgaki
+014: p.118
+014: /media/data1/work/aau/smc_proc/PapersSMC2018/14.Sklirou.pdf -> _DATA_/SMC Conference 2018/smc_2018_014.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:014',
+ 'author': 'Theofani Sklirou and Areti Andreopoulou and Anastasia Georgaki',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_014.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '014',
+ 'origtitle': 'Teaching Programming in Secondary Education through Sound',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.118',
+ 'publisher': '',
+ 'title': 'Teaching Programming in Secondary Education through Sound',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+015: NordicSMC: a Nordic University Hub on Sound and Music Computing
+015: Stefania Serafin, Sofia Dahl, Roberto Bresin Alexander Refsum Jensenius, Runar Unnthorsson, Vesa Valimaki
+015: p.124
+015: /media/data1/work/aau/smc_proc/PapersSMC2018/15.Serafin.pdf -> _DATA_/SMC Conference 2018/smc_2018_015.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:015',
+ 'author': 'Stefania Serafin and Sofia Dahl and Roberto Bresin Alexander '
+           'Refsum Jensenius and Runar Unnthorsson and Vesa Valimaki',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_015.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '015',
+ 'origtitle': 'NordicSMC: a Nordic University Hub on Sound and Music '
+              'Computing',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.124',
+ 'publisher': '',
+ 'title': 'NordicSMC: a Nordic University Hub on Sound and Music Computing',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+016: Electroacoustic music composition in the Music School of Nicosia
+016: Nasia Therapontos, Dimitrios Savva
+016: p.129
+016: /media/data1/work/aau/smc_proc/PapersSMC2018/16.Therapontos.pdf -> _DATA_/SMC Conference 2018/smc_2018_016.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:016',
+ 'author': 'Nasia Therapontos and Dimitrios Savva',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_016.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '016',
+ 'origtitle': 'Electroacoustic music composition in the Music School of '
+              'Nicosia',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.129',
+ 'publisher': '',
+ 'title': 'Electroacoustic music composition in the Music School of Nicosia',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+017: Microphone-based Electronic Wind Instrument by Feature Extraction From Breath Signals
+017: Francesco Bigoni, Pelle Juul Christensen, Rasmus Eklund, Javier Molina Garcia, Cumhur Erkut
+017: p.134
+017: /media/data1/work/aau/smc_proc/PapersSMC2018/17.Bigoni.pdf -> _DATA_/SMC Conference 2018/smc_2018_017.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:017',
+ 'author': 'Francesco Bigoni and Pelle Juul Christensen and Rasmus Eklund '
+           'and Javier Molina Garcia and Cumhur Erkut',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_017.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '017',
+ 'origtitle': 'Microphone-based Electronic Wind Instrument by Feature '
+              'Extraction From Breath Signals',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.134',
+ 'publisher': '',
+ 'title': 'Microphone-based Electronic Wind Instrument by Feature Extraction '
+          'From Breath Signals',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+018: From my Pen to your Ears: Automatic Production of Radio Plays from Unstructured Story Text
+018: Emmanouil Theofanis Chourdakis, Joshua D. Reiss
+018: p.142
+018: /media/data1/work/aau/smc_proc/PapersSMC2018/18.Chourdakis.pdf -> _DATA_/SMC Conference 2018/smc_2018_018.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:018',
+ 'author': 'Emmanouil Theofanis Chourdakis and Joshua D. Reiss',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_018.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '018',
+ 'origtitle': 'From my Pen to your Ears: Automatic Production of Radio Plays '
+              'from Unstructured Story Text',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.142',
+ 'publisher': '',
+ 'title': 'From my Pen to your Ears: Automatic Production of Radio Plays '
+          'from Unstructured Story Text',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+019: Improving the Instrumental Learning Experience through Complexity Management
+019: Laurel Pardue, Andrew McPherson, Dan Overholt
+019: p.150
+019: /media/data1/work/aau/smc_proc/PapersSMC2018/19.Pardue.pdf -> _DATA_/SMC Conference 2018/smc_2018_019.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:019',
+ 'author': 'Laurel Pardue and Andrew McPherson and Dan Overholt',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_019.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '019',
+ 'origtitle': 'Improving the Instrumental Learning Experience through '
+              'Complexity Management',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.150',
+ 'publisher': '',
+ 'title': 'Improving the Instrumental Learning Experience through Complexity '
+          'Management',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+020: Fiddl: Evaluation of a Smartphone Based Application Designed for a Music Workshop for Children
+020: Gergely Csapo, Jonas Holfelt , Peter Bruun, Stefania Serafin
+020: p.158
+020: /media/data1/work/aau/smc_proc/PapersSMC2018/20.Csapo.pdf -> _DATA_/SMC Conference 2018/smc_2018_020.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:020',
+ 'author': 'Gergely Csapo and Jonas Holfelt and Peter Bruun and Stefania '
+           'Serafin',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_020.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '020',
+ 'origtitle': 'Fiddl: Evaluation of a Smartphone Based Application Designed '
+              'for a Music Workshop for Children',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.158',
+ 'publisher': '',
+ 'title': 'Fiddl: Evaluation of a Smartphone Based Application Designed for '
+          'a Music Workshop for Children',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+021: A Portable Impulse Response Measurement System
+021: Elliot K. Canfield-Dafilou, Eoin Callery, Christopher Jette
+021: p.166
+021: /media/data1/work/aau/smc_proc/PapersSMC2018/21.Canfield-Dafilou.pdf -> _DATA_/SMC Conference 2018/smc_2018_021.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:021',
+ 'author': 'Elliot K. Canfield-Dafilou and Eoin Callery and Christopher Jette',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_021.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '021',
+ 'origtitle': 'A Portable Impulse Response Measurement System',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.166',
+ 'publisher': '',
+ 'title': 'A Portable Impulse Response Measurement System',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+022: Acquisition of Violin Instrumental Gestures Using an Infrared Depth Camera
+022: Zacharias Vamvakousis, Alfonso Perez Carrillo, Rafael Ramirez
+022: p.171
+022: /media/data1/work/aau/smc_proc/PapersSMC2018/22.Vamvakousis.pdf -> _DATA_/SMC Conference 2018/smc_2018_022.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:022',
+ 'author': 'Zacharias Vamvakousis and Alfonso Perez Carrillo and Rafael '
+           'Ramirez',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_022.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '022',
+ 'origtitle': 'Acquisition of Violin Instrumental Gestures Using an Infrared '
+              'Depth Camera',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.171',
+ 'publisher': '',
+ 'title': 'Acquisition of Violin Instrumental Gestures Using an Infrared '
+          'Depth Camera',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+023: Simulating the Acoustic Environment of Two Historical Viennese Theaters
+023: Brandon Westergaard, Timothy Hsu
+023: p.177
+023: /media/data1/work/aau/smc_proc/PapersSMC2018/23.Westergaard.pdf -> _DATA_/SMC Conference 2018/smc_2018_023.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:023',
+ 'author': 'Brandon Westergaard and Timothy Hsu',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_023.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '023',
+ 'origtitle': 'Simulating the Acoustic Environment of Two Historical '
+              'Viennese Theaters',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.177',
+ 'publisher': '',
+ 'title': 'Simulating the Acoustic Environment of Two Historical Viennese '
+          'Theaters',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+024: A new implementation of Spat in Max
+024: Thibaut Carpentier
+024: p.184
+024: /media/data1/work/aau/smc_proc/PapersSMC2018/24.Carpentier.pdf -> _DATA_/SMC Conference 2018/smc_2018_024.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:024',
+ 'author': 'Thibaut Carpentier',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_024.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '024',
+ 'origtitle': 'A new implementation of Spat in Max',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.184',
+ 'publisher': '',
+ 'title': 'A new implementation of Spat in Max',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+025: Navigate as a Bat. Real-Time Echolocation System in Virtual Reality
+025: Anastassia Andreasen, Jelisaveta Zovnercuka, Kristians Konovalovs, Michele Geronazzo, Stefania Serafin, Razvan Paisa
+025: p.192
+025: /media/data1/work/aau/smc_proc/PapersSMC2018/25.Andreasen.pdf -> _DATA_/SMC Conference 2018/smc_2018_025.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:025',
+ 'author': 'Anastassia Andreasen and Jelisaveta Zovnercuka and Kristians '
+           'Konovalovs and Michele Geronazzo and Stefania Serafin and Razvan '
+           'Paisa',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_025.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '025',
+ 'origtitle': 'Navigate as a Bat. Real-Time Echolocation System in Virtual '
+              'Reality',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.192',
+ 'publisher': '',
+ 'title': 'Navigate as a Bat. Real-Time Echolocation System in Virtual '
+          'Reality',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+026: Interactive Exploration of Musical Space with Parametric t-SNE
+026: Matteo Lionello, Hendrik Purwins, Luca Pietrogrande, Mohamed Abou-Zleikha
+026: p.200
+026: /media/data1/work/aau/smc_proc/PapersSMC2018/26.Lionello.pdf -> _DATA_/SMC Conference 2018/smc_2018_026.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:026',
+ 'author': 'Matteo Lionello and Hendrik Purwins and Luca Pietrogrande and '
+           'Mohamed Abou-Zleikha',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_026.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '026',
+ 'origtitle': 'Interactive Exploration of Musical Space with Parametric t-SNE',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.200',
+ 'publisher': '',
+ 'title': 'Interactive Exploration of Musical Space with Parametric t-SNE',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+027: You Are Here: Sonic Crossings and Time Indeterminacy within the Buffer Zone
+027: Oswaldo Emiddio Vasquez Hadjilyra
+027: p.208
+027: /media/data1/work/aau/smc_proc/PapersSMC2018/27.Hadjilyra.pdf -> _DATA_/SMC Conference 2018/smc_2018_027.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:027',
+ 'author': 'Oswaldo Emiddio Vasquez Hadjilyra',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_027.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '027',
+ 'origtitle': 'You Are Here: Sonic Crossings and Time Indeterminacy within '
+              'the Buffer Zone',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.208',
+ 'publisher': '',
+ 'title': 'You Are Here: Sonic Crossings and Time Indeterminacy within the '
+          'Buffer Zone',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+028: An Xception Residual Recurrent Neural Network for Audio Event Detection and Tagging
+028: Tomas Gajarsky, Hendrik Purwins
+028: p.210
+028: /media/data1/work/aau/smc_proc/PapersSMC2018/28.Gajarsky.pdf -> _DATA_/SMC Conference 2018/smc_2018_028.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:028',
+ 'author': 'Tomas Gajarsky and Hendrik Purwins',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_028.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '028',
+ 'origtitle': 'An Xception Residual Recurrent Neural Network for Audio Event '
+              'Detection and Tagging',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.210',
+ 'publisher': '',
+ 'title': 'An Xception Residual Recurrent Neural Network for Audio Event '
+          'Detection and Tagging',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+029: #nowplaying-RS: A New Benchmark Dataset for Building Context-Aware Music Recommender Systems
+029: Asmita Poddar, Eva Zangerle, Yi-Hsuan Yang
+029: p.217
+029: /media/data1/work/aau/smc_proc/PapersSMC2018/29.Poddar.pdf -> _DATA_/SMC Conference 2018/smc_2018_029.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:029',
+ 'author': 'Asmita Poddar and Eva Zangerle and Yi-Hsuan Yang',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_029.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '029',
+ 'origtitle': '#nowplaying-RS: A New Benchmark Dataset for Building '
+              'Context-Aware Music Recommender Systems',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.217',
+ 'publisher': '',
+ 'title': '#nowplaying-RS: A New Benchmark Dataset for Building '
+          'Context-Aware Music Recommender Systems',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+030: Toward a Web of Audio Things
+030: Benjamin Matuszewski, Frédéric Bevilacqua
+030: p.225
+030: /media/data1/work/aau/smc_proc/PapersSMC2018/30.Matuszewski.pdf -> _DATA_/SMC Conference 2018/smc_2018_030.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:030',
+ 'author': 'Benjamin Matuszewski and Frédéric Bevilacqua',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_030.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '030',
+ 'origtitle': 'Toward a Web of Audio Things',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.225',
+ 'publisher': '',
+ 'title': 'Toward a Web of Audio Things',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+031: Analyzing and Classifying Guitarists from Rock Guitar Solo Tablature
+031: Orchisama Das, Blair Kaneshiro, Tom Collins
+031: p.232
+031: /media/data1/work/aau/smc_proc/PapersSMC2018/31.Das.pdf -> _DATA_/SMC Conference 2018/smc_2018_031.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:031',
+ 'author': 'Orchisama Das and Blair Kaneshiro and Tom Collins',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_031.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '031',
+ 'origtitle': 'Analyzing and Classifying Guitarists from Rock Guitar Solo '
+              'Tablature',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.232',
+ 'publisher': '',
+ 'title': 'Analyzing and Classifying Guitarists from Rock Guitar Solo '
+          'Tablature',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+032: Recreating an instrument inspired by the glass harmonica using fabrication techniques and physical models
+032: Razvan Paiza, Stefania Serafin
+032: p.239
+032: /media/data1/work/aau/smc_proc/PapersSMC2018/32.Paiza.pdf -> _DATA_/SMC Conference 2018/smc_2018_032.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:032',
+ 'author': 'Razvan Paiza and Stefania Serafin',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_032.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '032',
+ 'origtitle': 'Recreating an instrument inspired by the glass harmonica '
+              'using fabrication techniques and physical models',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.239',
+ 'publisher': '',
+ 'title': 'Recreating an instrument inspired by the glass harmonica using '
+          'fabrication techniques and physical models',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+033: Encoding Byzantine Music Notation (Ca. 1600-1814)
+033: Nick Bouris, Achilleas Chaldaeakes, Anastasia Georgaki
+033: p.243
+033: /media/data1/work/aau/smc_proc/PapersSMC2018/33.Bouris.pdf -> _DATA_/SMC Conference 2018/smc_2018_033.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:033',
+ 'author': 'Nick Bouris and Achilleas Chaldaeakes and Anastasia Georgaki',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_033.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '033',
+ 'origtitle': 'Encoding Byzantine Music Notation (Ca. 1600-1814)',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.243',
+ 'publisher': '',
+ 'title': 'Encoding Byzantine Music Notation (Ca. 1600-1814)',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+034: Makam Recognition Using Extended Pitch Distribution Features and Multi-Layer Perceptrons
+034: Furkan Yesiler, Baris Bozkurt, Xavier Serra
+034: p.249
+034: /media/data1/work/aau/smc_proc/PapersSMC2018/34.Yesiler.pdf -> _DATA_/SMC Conference 2018/smc_2018_034.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:034',
+ 'author': 'Furkan Yesiler and Baris Bozkurt and Xavier Serra',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_034.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '034',
+ 'origtitle': 'Makam Recognition Using Extended Pitch Distribution Features '
+              'and Multi-Layer Perceptrons',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.249',
+ 'publisher': '',
+ 'title': 'Makam Recognition Using Extended Pitch Distribution Features and '
+          'Multi-Layer Perceptrons',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+035: Formalizing Schoenberg’s Fundamentals of Musical Composition through Petri Nets
+035: Adriano Baratè, Davide Andrea Mauro, Goffredo Haus, Luca Andrea Ludovico
+035: p.254
+035: /media/data1/work/aau/smc_proc/PapersSMC2018/35.Barate.pdf -> _DATA_/SMC Conference 2018/smc_2018_035.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:035',
+ 'author': 'Adriano Baratè and Davide Andrea Mauro and Goffredo Haus and '
+           'Luca Andrea Ludovico',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_035.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '035',
+ 'origtitle': 'Formalizing Schoenberg’s Fundamentals of Musical Composition '
+              'through Petri Nets',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.254',
+ 'publisher': '',
+ 'title': 'Formalizing Schoenberg’s Fundamentals of Musical Composition '
+          'through Petri Nets',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+036: A Heuristic Algorithm for DJ Cue Point Estimation
+036: Diemo Schwarz, Daniel Schindler, Severino Spadavecchia
+036: p.259
+036: /media/data1/work/aau/smc_proc/PapersSMC2018/36.Schwarz.pdf -> _DATA_/SMC Conference 2018/smc_2018_036.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:036',
+ 'author': 'Diemo Schwarz and Daniel Schindler and Severino Spadavecchia',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_036.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '036',
+ 'origtitle': 'A Heuristic Algorithm for DJ Cue Point Estimation',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.259',
+ 'publisher': '',
+ 'title': 'A Heuristic Algorithm for DJ Cue Point Estimation',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+037: A Simple Fusion of Deep and Shallow Learning for Acoustic Scene Classification
+037: Eduardo Fonseca, Rong Gong, Xavier Serra
+037: p.265
+037: /media/data1/work/aau/smc_proc/PapersSMC2018/37.Fonseca.pdf -> _DATA_/SMC Conference 2018/smc_2018_037.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:037',
+ 'author': 'Eduardo Fonseca and Rong Gong and Xavier Serra',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_037.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '037',
+ 'origtitle': 'A Simple Fusion of Deep and Shallow Learning for Acoustic '
+              'Scene Classification',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.265',
+ 'publisher': '',
+ 'title': 'A Simple Fusion of Deep and Shallow Learning for Acoustic Scene '
+          'Classification',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+038: Relative DTW Embedding for Binary Classification of Audio Data
+038: Marcelo Queiroz, Guilherme Jun Yoshimura
+038: p.273
+038: /media/data1/work/aau/smc_proc/PapersSMC2018/38.Queiroz.pdf -> _DATA_/SMC Conference 2018/smc_2018_038.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:038',
+ 'author': 'Marcelo Queiroz and Guilherme Jun Yoshimura',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_038.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '038',
+ 'origtitle': 'Relative DTW Embedding for Binary Classification of Audio Data',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.273',
+ 'publisher': '',
+ 'title': 'Relative DTW Embedding for Binary Classification of Audio Data',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+039: Training Deep Convolutional Networks with Unlimited Synthesis of Musical Examples for Multiple Instrument Recognition
+039: Rameel Sethi, Noah Weninger, Abram Hindle, Vadim Bulitko, Michael Frishkopf
+039: p.281
+039: /media/data1/work/aau/smc_proc/PapersSMC2018/39.Sethi.pdf -> _DATA_/SMC Conference 2018/smc_2018_039.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:039',
+ 'author': 'Rameel Sethi and Noah Weninger and Abram Hindle and Vadim '
+           'Bulitko and Michael Frishkopf',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_039.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '039',
+ 'origtitle': 'Training Deep Convolutional Networks with Unlimited Synthesis '
+              'of Musical Examples for Multiple Instrument Recognition',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.281',
+ 'publisher': '',
+ 'title': 'Training Deep Convolutional Networks with Unlimited Synthesis of '
+          'Musical Examples for Multiple Instrument Recognition',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+040: Soundscape Emotion Recognition via Deep Learning
+040: Jianyu Fan, Fred Tung, William Li, Philippe Pasquier
+040: p.289
+040: /media/data1/work/aau/smc_proc/PapersSMC2018/40.Fan.pdf -> _DATA_/SMC Conference 2018/smc_2018_040.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:040',
+ 'author': 'Jianyu Fan and Fred Tung and William Li and Philippe Pasquier',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_040.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '040',
+ 'origtitle': 'Soundscape Emotion Recognition via Deep Learning',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.289',
+ 'publisher': '',
+ 'title': 'Soundscape Emotion Recognition via Deep Learning',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+041: Quantitative Analysis of the Impact of Mixing on Perceived Emotion of Soundscape Recordings
+041: Jianyu Fan, Miles Thorogood, Kıvanç Tatar, Philippe Pasquier
+041: p.295
+041: /media/data1/work/aau/smc_proc/PapersSMC2018/41.Fan.pdf -> _DATA_/SMC Conference 2018/smc_2018_041.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:041',
+ 'author': 'Jianyu Fan and Miles Thorogood and Kıvanç Tatar and Philippe '
+           'Pasquier',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_041.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '041',
+ 'origtitle': 'Quantitative Analysis of the Impact of Mixing on Perceived '
+              'Emotion of Soundscape Recordings',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.295',
+ 'publisher': '',
+ 'title': 'Quantitative Analysis of the Impact of Mixing on Perceived '
+          'Emotion of Soundscape Recordings',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+042: Design and Interaction of 3D Virtual Music Instruments for STEAM Education Using Web Technologies
+042: Kosmas Kritsis, Aggelos Gkiokas, Quentin Lamerand, Robert Piéchaud, Carlos Acosta, Maximos Kaliakatsos-Papakostas, Vassilis Katsouros
+042: p.301
+042: /media/data1/work/aau/smc_proc/PapersSMC2018/42.Kritsis.pdf -> _DATA_/SMC Conference 2018/smc_2018_042.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:042',
+ 'author': 'Kosmas Kritsis and Aggelos Gkiokas and Quentin Lamerand and '
+           'Robert Piéchaud and Carlos Acosta and Maximos '
+           'Kaliakatsos-Papakostas and Vassilis Katsouros',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_042.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '042',
+ 'origtitle': 'Design and Interaction of 3D Virtual Music Instruments for '
+              'STEAM Education Using Web Technologies',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.301',
+ 'publisher': '',
+ 'title': 'Design and Interaction of 3D Virtual Music Instruments for STEAM '
+          'Education Using Web Technologies',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+043: Stability, Reliability, Compatibility: Reviewing 40 Years of DMI Design
+043: John Sullivan, Marcelo M. Wanderley
+043: p.308
+043: /media/data1/work/aau/smc_proc/PapersSMC2018/43.Sullivan.pdf -> _DATA_/SMC Conference 2018/smc_2018_043.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:043',
+ 'author': 'John Sullivan and Marcelo M. Wanderley',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_043.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '043',
+ 'origtitle': 'Stability, Reliability, Compatibility: Reviewing 40 Years of '
+              'DMI Design',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.308',
+ 'publisher': '',
+ 'title': 'Stability, Reliability, Compatibility: Reviewing 40 Years of DMI '
+          'Design',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+044: Real-time Bowed String Feature Extraction for Performance Applications
+044: Kurijn Buys, Andrew McPherson
+044: p.316
+044: /media/data1/work/aau/smc_proc/PapersSMC2018/44.Buys.pdf -> _DATA_/SMC Conference 2018/smc_2018_044.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:044',
+ 'author': 'Kurijn Buys and Andrew McPherson',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_044.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '044',
+ 'origtitle': 'Real-time Bowed String Feature Extraction for Performance '
+              'Applications',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.316',
+ 'publisher': '',
+ 'title': 'Real-time Bowed String Feature Extraction for Performance '
+          'Applications',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+045: Dervish Sound Dress; a Development of a Musical Interface Garment which explores Wearable Technology using Sound and Haptic Feedback for Performance and Interaction
+045: Eduardo Miranda, Hedy Hurban, Edward Braund
+045: p.324
+045: /media/data1/work/aau/smc_proc/PapersSMC2018/45.Miranda.pdf -> _DATA_/SMC Conference 2018/smc_2018_045.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:045',
+ 'author': 'Eduardo Miranda and Hedy Hurban and Edward Braund',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_045.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '045',
+ 'origtitle': 'Dervish Sound Dress; a Development of a Musical Interface '
+              'Garment which explores Wearable Technology using Sound and '
+              'Haptic Feedback for Performance and Interaction',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.324',
+ 'publisher': '',
+ 'title': 'Dervish Sound Dress; a Development of a Musical Interface Garment '
+          'which explores Wearable Technology using Sound and Haptic '
+          'Feedback for Performance and Interaction',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+046: Deployment of LSTMs for Real-Time Hand Gesture Interaction of 3D Virtual Music Instruments with a Leap Motion Sensor
+046: Kosmas Kritsis, Aggelos Gkiokas, Maximos Kaliakatsos-Papakostas, Vassilis Katsouros, Aggelos Pikrakis
+046: p.331
+046: /media/data1/work/aau/smc_proc/PapersSMC2018/46.Kritsis(2).pdf -> _DATA_/SMC Conference 2018/smc_2018_046.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:046',
+ 'author': 'Kosmas Kritsis and Aggelos Gkiokas and Maximos '
+           'Kaliakatsos-Papakostas and Vassilis Katsouros and Aggelos '
+           'Pikrakis',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_046.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '046',
+ 'origtitle': 'Deployment of LSTMs for Real-Time Hand Gesture Interaction of '
+              '3D Virtual Music Instruments with a Leap Motion Sensor',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.331',
+ 'publisher': '',
+ 'title': 'Deployment of LSTMs for Real-Time Hand Gesture Interaction of 3D '
+          'Virtual Music Instruments with a Leap Motion Sensor',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+047: An Expressive Multidimensional Physical Modelling Percussion Instrument
+047: Ohejl Zabetian , Pablo Delgado, Sofia Dahl, Stefania Serafin
+047: p.339
+047: /media/data1/work/aau/smc_proc/PapersSMC2018/47.Zabetian.pdf -> _DATA_/SMC Conference 2018/smc_2018_047.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:047',
+ 'author': 'Ohejl Zabetian and Pablo Delgado and Sofia Dahl and Stefania '
+           'Serafin',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_047.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '047',
+ 'origtitle': 'An Expressive Multidimensional Physical Modelling Percussion '
+              'Instrument',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.339',
+ 'publisher': '',
+ 'title': 'An Expressive Multidimensional Physical Modelling Percussion '
+          'Instrument',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+048: A Machine Learning Approach to Violin Vibrato Modelling in Audio Performances and a Didactic Application for Mobile Devices
+048: Matteo Lionello, Rafael Ramirez
+048: p.347
+048: /media/data1/work/aau/smc_proc/PapersSMC2018/48.Lionello.pdf -> _DATA_/SMC Conference 2018/smc_2018_048.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:048',
+ 'author': 'Matteo Lionello and Rafael Ramirez',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_048.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '048',
+ 'origtitle': 'A Machine Learning Approach to Violin Vibrato Modelling in '
+              'Audio Performances and a Didactic Application for Mobile '
+              'Devices',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.347',
+ 'publisher': '',
+ 'title': 'A Machine Learning Approach to Violin Vibrato Modelling in Audio '
+          'Performances and a Didactic Application for Mobile Devices',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+049: A comparative study on filtering and classification of bird songs
+049: Nicolas Figueiredo, Felipe Felix, Carolina Brum Medeiros, Marcelo Queiroz
+049: p.354
+049: /media/data1/work/aau/smc_proc/PapersSMC2018/49.Figueiredo.pdf -> _DATA_/SMC Conference 2018/smc_2018_049.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:049',
+ 'author': 'Nicolas Figueiredo and Felipe Felix and Carolina Brum Medeiros '
+           'and Marcelo Queiroz',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_049.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '049',
+ 'origtitle': 'A comparative study on filtering and classification of bird '
+              'songs',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.354',
+ 'publisher': '',
+ 'title': 'A comparative study on filtering and classification of bird songs',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+050: A Machine Learning Approach to Classification of Phonation Modes in Singing
+050: Furkan Yesiler, Rafael Ramirez
+050: p.362
+050: /media/data1/work/aau/smc_proc/PapersSMC2018/50.Yesiler.pdf -> _DATA_/SMC Conference 2018/smc_2018_050.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:050',
+ 'author': 'Furkan Yesiler and Rafael Ramirez',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_050.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '050',
+ 'origtitle': 'A Machine Learning Approach to Classification of Phonation '
+              'Modes in Singing',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.362',
+ 'publisher': '',
+ 'title': 'A Machine Learning Approach to Classification of Phonation Modes '
+          'in Singing',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+051: AI Encountering Interactive Systems: A Deep Learning Reinforced Musical Composition Model
+051: Ke Ma, Tian Xia
+051: p.368
+051: /media/data1/work/aau/smc_proc/PapersSMC2018/51.Ma.pdf -> _DATA_/SMC Conference 2018/smc_2018_051.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:051',
+ 'author': 'Ke Ma and Tian Xia',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_051.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '051',
+ 'origtitle': 'AI Encountering Interactive Systems: A Deep Learning '
+              'Reinforced Musical Composition Model',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.368',
+ 'publisher': '',
+ 'title': 'AI Encountering Interactive Systems: A Deep Learning Reinforced '
+          'Musical Composition Model',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+052: Modeling Carnatic Rhythm Generation: a Data Driven Approach Based on Rhythmic Analysis
+052: Carlos Guedes, Konstantinos Trochidis, Akshay Anantapadmanabhan
+052: p.376
+052: /media/data1/work/aau/smc_proc/PapersSMC2018/52.Guedes.pdf -> _DATA_/SMC Conference 2018/smc_2018_052.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:052',
+ 'author': 'Carlos Guedes and Konstantinos Trochidis and Akshay '
+           'Anantapadmanabhan',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_052.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '052',
+ 'origtitle': 'Modeling Carnatic Rhythm Generation: a Data Driven Approach '
+              'Based on Rhythmic Analysis',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.376',
+ 'publisher': '',
+ 'title': 'Modeling Carnatic Rhythm Generation: a Data Driven Approach Based '
+          'on Rhythmic Analysis',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+053: Affordances of Vibrational Excitation for Music Composition and Performance
+053: Tychonas Michailidis, Jason Hockman
+053: p.382
+053: /media/data1/work/aau/smc_proc/PapersSMC2018/53.Michailidis.pdf -> _DATA_/SMC Conference 2018/smc_2018_053.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:053',
+ 'author': 'Tychonas Michailidis and Jason Hockman',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_053.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '053',
+ 'origtitle': 'Affordances of Vibrational Excitation for Music Composition '
+              'and Performance',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.382',
+ 'publisher': '',
+ 'title': 'Affordances of Vibrational Excitation for Music Composition and '
+          'Performance',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+054: Approaches and Assessment of Drama Prosodic Tools in Live Performance
+054: George Petras, Panagiotis Tsagkarakis, Anastasia Georgaki
+054: p.388
+054: /media/data1/work/aau/smc_proc/PapersSMC2018/54.Petras.pdf -> _DATA_/SMC Conference 2018/smc_2018_054.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:054',
+ 'author': 'George Petras and Panagiotis Tsagkarakis and Anastasia Georgaki',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_054.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '054',
+ 'origtitle': 'Approaches and Assessment of Drama Prosodic Tools in Live '
+              'Performance',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.388',
+ 'publisher': '',
+ 'title': 'Approaches and Assessment of Drama Prosodic Tools in Live '
+          'Performance',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+055: Nawba Recognition for Arab-andalusian Music Using Templates From Music Scores
+055: Niccolò Pretto, Barıs Bozkurt, Rafael Caro Repetto, Xavier Serra
+055: p.394
+055: /media/data1/work/aau/smc_proc/PapersSMC2018/55.Pretto.pdf -> _DATA_/SMC Conference 2018/smc_2018_055.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:055',
+ 'author': 'Niccolò Pretto and Barıs Bozkurt and Rafael Caro Repetto and '
+           'Xavier Serra',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_055.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '055',
+ 'origtitle': 'Nawba Recognition for Arab-andalusian Music Using Templates '
+              'From Music Scores',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.394',
+ 'publisher': '',
+ 'title': 'Nawba Recognition for Arab-andalusian Music Using Templates From '
+          'Music Scores',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+056: Blender2faust: from drawn 3d objects to physically based sound models
+056: Stefania Serafin, Romain Michon, Smilen Dimitrov
+056: p.400
+056: /media/data1/work/aau/smc_proc/PapersSMC2018/56.Serafin.pdf -> _DATA_/SMC Conference 2018/smc_2018_056.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:056',
+ 'author': 'Stefania Serafin and Romain Michon and Smilen Dimitrov',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_056.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '056',
+ 'origtitle': 'Blender2faust: from drawn 3d objects to physically based '
+              'sound models',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.400',
+ 'publisher': '',
+ 'title': 'Blender2faust: from drawn 3d objects to physically based sound '
+          'models',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+057: A Collaborative System for Composing Music via Motion Using a Kinect Sensor and Skeletal Data
+057: Christos Garoufis, Athanasia Zlatintsi, Petros Maragos
+057: p.404
+057: /media/data1/work/aau/smc_proc/PapersSMC2018/57.Garoufis.pdf -> _DATA_/SMC Conference 2018/smc_2018_057.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:057',
+ 'author': 'Christos Garoufis and Athanasia Zlatintsi and Petros Maragos',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_057.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '057',
+ 'origtitle': 'A Collaborative System for Composing Music via Motion Using a '
+              'Kinect Sensor and Skeletal Data',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.404',
+ 'publisher': '',
+ 'title': 'A Collaborative System for Composing Music via Motion Using a '
+          'Kinect Sensor and Skeletal Data',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+058: Block-based Scheduling Through Interrupts And Intervention
+058: Bjarni Gunnarsson
+058: p.412
+058: /media/data1/work/aau/smc_proc/PapersSMC2018/58.Gunnarsson.pdf -> _DATA_/SMC Conference 2018/smc_2018_058.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:058',
+ 'author': 'Bjarni Gunnarsson',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_058.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '058',
+ 'origtitle': 'Block-based Scheduling Through Interrupts And Intervention',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.412',
+ 'publisher': '',
+ 'title': 'Block-based Scheduling Through Interrupts And Intervention',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+059: SketchyTuna: Exploring A Design For Screenless Creativity
+059: Nikolaj Møller, Dan Overholt, Vanessa Carpenter, Antonio Stella, Baldur Kampmann, Martin Minovski, Martin Maunsbach
+059: p.419
+059: /media/data1/work/aau/smc_proc/PapersSMC2018/59.Moller.pdf -> _DATA_/SMC Conference 2018/smc_2018_059.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:059',
+ 'author': 'Nikolaj Møller and Dan Overholt and Vanessa Carpenter and '
+           'Antonio Stella and Baldur Kampmann and Martin Minovski and '
+           'Martin Maunsbach',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_059.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '059',
+ 'origtitle': 'SketchyTuna: Exploring A Design For Screenless Creativity',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.419',
+ 'publisher': '',
+ 'title': 'SketchyTuna: Exploring A Design For Screenless Creativity',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+060: Haptic Interaction with Guitar and Bass Virtual Strings
+060: Andrea Passalenti, Federico Fontana
+060: p.427
+060: /media/data1/work/aau/smc_proc/PapersSMC2018/60.Passalenti.pdf -> _DATA_/SMC Conference 2018/smc_2018_060.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:060',
+ 'author': 'Andrea Passalenti and Federico Fontana',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_060.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '060',
+ 'origtitle': 'Haptic Interaction with Guitar and Bass Virtual Strings',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.427',
+ 'publisher': '',
+ 'title': 'Haptic Interaction with Guitar and Bass Virtual Strings',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+061: UPISketch : The Renewal of an Old Idea
+061: Rodolphe Bourotte
+061: p.433
+061: /media/data1/work/aau/smc_proc/PapersSMC2018/61.Bourotte.pdf -> _DATA_/SMC Conference 2018/smc_2018_061.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:061',
+ 'author': 'Rodolphe Bourotte',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_061.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '061',
+ 'origtitle': 'UPISketch : The Renewal of an Old Idea',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.433',
+ 'publisher': '',
+ 'title': 'UPISketch : The Renewal of an Old Idea',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+062: Frequency Control of Nonlinear Oscillators – Strategies for Realtime Sound Synthesis
+062: Martin Neukom
+062: p.436
+062: /media/data1/work/aau/smc_proc/PapersSMC2018/62.Neukom.pdf -> _DATA_/SMC Conference 2018/smc_2018_062.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:062',
+ 'author': 'Martin Neukom',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_062.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '062',
+ 'origtitle': 'Frequency Control of Nonlinear Oscillators – Strategies for '
+              'Realtime Sound Synthesis',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.436',
+ 'publisher': '',
+ 'title': 'Frequency Control of Nonlinear Oscillators – Strategies for '
+          'Realtime Sound Synthesis',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+063: Algorithms for Guitar-Driven Synthesis: Application to an Augmented Guitar
+063: Fabián Esqueda, Otso Lähdeoja, Vesa Valimaki
+063: p.444
+063: /media/data1/work/aau/smc_proc/PapersSMC2018/63.Esqueda.pdf -> _DATA_/SMC Conference 2018/smc_2018_063.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:063',
+ 'author': 'Fabián Esqueda and Otso Lähdeoja and Vesa Valimaki',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_063.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '063',
+ 'origtitle': 'Algorithms for Guitar-Driven Synthesis: Application to an '
+              'Augmented Guitar',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.444',
+ 'publisher': '',
+ 'title': 'Algorithms for Guitar-Driven Synthesis: Application to an '
+          'Augmented Guitar',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+064: Ko2 - Distributed Music Systems With O2 and Kronos
+064: Vesa Norilo, Roger Dannenberg
+064: p.452
+064: /media/data1/work/aau/smc_proc/PapersSMC2018/64.Norilo.pdf -> _DATA_/SMC Conference 2018/smc_2018_064.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:064',
+ 'author': 'Vesa Norilo and Roger Dannenberg',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_064.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '064',
+ 'origtitle': 'Ko2 - Distributed Music Systems With O2 and Kronos',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.452',
+ 'publisher': '',
+ 'title': 'Ko2 - Distributed Music Systems With O2 and Kronos',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+065: Data Transmission as Musical Performance
+065: Simon Blackmore
+065: p.457
+065: /media/data1/work/aau/smc_proc/PapersSMC2018/65.Blackmore.pdf -> _DATA_/SMC Conference 2018/smc_2018_065.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:065',
+ 'author': 'Simon Blackmore',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_065.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '065',
+ 'origtitle': 'Data Transmission as Musical Performance',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.457',
+ 'publisher': '',
+ 'title': 'Data Transmission as Musical Performance',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+066: GTTM Database and Manual Time-span Tree Generation Tool
+066: Masatoshi Hamanaka, Keiji Hirata, Satoshi Tojo
+066: p.462
+066: /media/data1/work/aau/smc_proc/PapersSMC2018/66.Hamanaka.pdf -> _DATA_/SMC Conference 2018/smc_2018_066.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:066',
+ 'author': 'Masatoshi Hamanaka and Keiji Hirata and Satoshi Tojo',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_066.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '066',
+ 'origtitle': 'GTTM Database and Manual Time-span Tree Generation Tool',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.462',
+ 'publisher': '',
+ 'title': 'GTTM Database and Manual Time-span Tree Generation Tool',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+067: CTcomposer: A Music Composition Interface Considering Intra-Composer Consistency and Musical Typicality
+067: Hiromi Nakamura, Tomoyasu Nakano, Satoru Fukayama, Masataka Goto
+067: p.468
+067: /media/data1/work/aau/smc_proc/PapersSMC2018/67.Nakamura.pdf -> _DATA_/SMC Conference 2018/smc_2018_067.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:067',
+ 'author': 'Hiromi Nakamura and Tomoyasu Nakano and Satoru Fukayama and '
+           'Masataka Goto',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_067.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '067',
+ 'origtitle': 'CTcomposer: A Music Composition Interface Considering '
+              'Intra-Composer Consistency and Musical Typicality',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.468',
+ 'publisher': '',
+ 'title': 'CTcomposer: A Music Composition Interface Considering '
+          'Intra-Composer Consistency and Musical Typicality',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+068: Mapping Pitch Classes And Sound Objects: A Bridge Between Klumpenhouwer Networks And Schaeffer’s TARTYP
+068: Israel Neuman
+068: p.476
+068: /media/data1/work/aau/smc_proc/PapersSMC2018/68.Neuman.pdf -> _DATA_/SMC Conference 2018/smc_2018_068.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:068',
+ 'author': 'Israel Neuman',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_068.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '068',
+ 'origtitle': 'Mapping Pitch Classes And Sound Objects: A Bridge Between '
+              'Klumpenhouwer Networks And Schaeffer’s TARTYP',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.476',
+ 'publisher': '',
+ 'title': 'Mapping Pitch Classes And Sound Objects: A Bridge Between '
+          'Klumpenhouwer Networks And Schaeffer’s TARTYP',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+069: Unit-generator Graph as a Generator of Lazily Evaluated Audio-vector Trees
+069: Hiroki Nishino
+069: p.484
+069: /media/data1/work/aau/smc_proc/PapersSMC2018/69.Nishino.pdf -> _DATA_/SMC Conference 2018/smc_2018_069.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:069',
+ 'author': 'Hiroki Nishino',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_069.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '069',
+ 'origtitle': 'Unit-generator Graph as a Generator of Lazily Evaluated '
+              'Audio-vector Trees',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.484',
+ 'publisher': '',
+ 'title': 'Unit-generator Graph as a Generator of Lazily Evaluated '
+          'Audio-vector Trees',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+070: Metric Interweaving in Networked Dance and Music Performance
+070: Ioannis Zannos, Martin Carlé
+070: p.492
+070: /media/data1/work/aau/smc_proc/PapersSMC2018/70.Zannos.pdf -> _DATA_/SMC Conference 2018/smc_2018_070.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:070',
+ 'author': 'Ioannis Zannos and Martin Carlé',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_070.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '070',
+ 'origtitle': 'Metric Interweaving in Networked Dance and Music Performance',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.492',
+ 'publisher': '',
+ 'title': 'Metric Interweaving in Networked Dance and Music Performance',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+071: The BodyHarp: Designing the Intersection Between the Instrument and the Body
+071: Doga Buse Cavdir, Romain Michon, Ge Wang
+071: p.498
+071: /media/data1/work/aau/smc_proc/PapersSMC2018/71.Cavdir.pdf -> _DATA_/SMC Conference 2018/smc_2018_071.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:071',
+ 'author': 'Doga Buse Cavdir and Romain Michon and Ge Wang',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_071.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '071',
+ 'origtitle': 'The BodyHarp: Designing the Intersection Between the '
+              'Instrument and the Body',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.498',
+ 'publisher': '',
+ 'title': 'The BodyHarp: Designing the Intersection Between the Instrument '
+          'and the Body',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+072: Sonic Crossings with Audience Participation: The Embodied iSound Performance
+072: Marcelo Gimenes
+072: p.504
+072: /media/data1/work/aau/smc_proc/PapersSMC2018/72.Gimenes.pdf -> _DATA_/SMC Conference 2018/smc_2018_072.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:072',
+ 'author': 'Marcelo Gimenes',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_072.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '072',
+ 'origtitle': 'Sonic Crossings with Audience Participation: The Embodied '
+              'iSound Performance',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.504',
+ 'publisher': '',
+ 'title': 'Sonic Crossings with Audience Participation: The Embodied iSound '
+          'Performance',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+073: HamoKara: A System for Practice of Backing Vocals for Karaoke
+073: Mina Shiraishi, Kozue Ogasawara, Tetsuro Kitahara
+073: p.511
+073: /media/data1/work/aau/smc_proc/PapersSMC2018/73.Shiraishi.pdf -> _DATA_/SMC Conference 2018/smc_2018_073.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:073',
+ 'author': 'Mina Shiraishi and Kozue Ogasawara and Tetsuro Kitahara',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_073.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '073',
+ 'origtitle': 'HamoKara: A System for Practice of Backing Vocals for Karaoke',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.511',
+ 'publisher': '',
+ 'title': 'HamoKara: A System for Practice of Backing Vocals for Karaoke',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+074: 3D Printing and Physical Modeling of Musical Instruments: Casting the Net
+074: Romain Michon, John Granzow
+074: p.519
+074: /media/data1/work/aau/smc_proc/PapersSMC2018/74.Michon.pdf -> _DATA_/SMC Conference 2018/smc_2018_074.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:074',
+ 'author': 'Romain Michon and John Granzow',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_074.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '074',
+ 'origtitle': '3D Printing and Physical Modeling of Musical Instruments: '
+              'Casting the Net',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.519',
+ 'publisher': '',
+ 'title': '3D Printing and Physical Modeling of Musical Instruments: Casting '
+          'the Net',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+075: Sonoids: Interactive Sound Synthesis Driven by Emergent Social Behaviour in the Sonic Domain
+075: Andreas Apergis, Andreas Floros, Maximos Kaliakatsos-Papakostas
+075: p.527
+075: /media/data1/work/aau/smc_proc/PapersSMC2018/75.Apergis.pdf -> _DATA_/SMC Conference 2018/smc_2018_075.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:075',
+ 'author': 'Andreas Apergis and Andreas Floros and Maximos '
+           'Kaliakatsos-Papakostas',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_075.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '075',
+ 'origtitle': 'Sonoids: Interactive Sound Synthesis Driven by Emergent '
+              'Social Behaviour in the Sonic Domain',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.527',
+ 'publisher': '',
+ 'title': 'Sonoids: Interactive Sound Synthesis Driven by Emergent Social '
+          'Behaviour in the Sonic Domain',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+076: Towards Flexible Audio Processing
+076: Thilo Koch, Marcelo Queiroz
+076: p.535
+076: /media/data1/work/aau/smc_proc/PapersSMC2018/76.Koch.pdf -> _DATA_/SMC Conference 2018/smc_2018_076.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:076',
+ 'author': 'Thilo Koch and Marcelo Queiroz',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_076.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '076',
+ 'origtitle': 'Towards Flexible Audio Processing',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.535',
+ 'publisher': '',
+ 'title': 'Towards Flexible Audio Processing',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---
+077: Strumming on an Acoustic Nylon Guitar: Microtiming, Beat Control and Rhythmic Expression in Three Different Accompaniment Patterns
+077: Sérgio Freire, Augusto Armondes, João Viana, Rubens Silva
+077: p.543
+077: /media/data1/work/aau/smc_proc/PapersSMC2018/77.Freire.pdf -> _DATA_/SMC Conference 2018/smc_2018_077.pdf
+{'ENTRYTYPE': 'inproceedings',
+ 'ID': 'smc:2018:077',
+ 'author': 'Sérgio Freire and Augusto Armondes and João Viana and Rubens '
+           'Silva',
+ 'booktitle': 'Proceedings of the 15th Sound and Music Computing Conference '
+              '(SMC2018)',
+ 'editor': 'Anastasia Georgaki and Areti Andreopoulou',
+ 'file': 'smc_2018_077.pdf',
+ 'isbn': '978-9963-697-30-4',
+ 'issn': '2518-3672',
+ 'month': '4-7 July',
+ 'numpaperorder': '077',
+ 'origtitle': 'Strumming on an Acoustic Nylon Guitar: Microtiming, Beat '
+              'Control and Rhythmic Expression in Three Different '
+              'Accompaniment Patterns',
+ 'origtype': 'Conference Paper',
+ 'pages': 'p.543',
+ 'publisher': '',
+ 'title': 'Strumming on an Acoustic Nylon Guitar: Microtiming, Beat Control '
+          'and Rhythmic Expression in Three Different Accompaniment Patterns',
+ 'url': '',
+ 'urlconf': 'http://cyprusconferences.org/smc2018/',
+ 'urlhome': '',
+ 'urlpdf': '',
+ 'venue': 'Limassol, Cyprus',
+ 'year': '2018'}
+---

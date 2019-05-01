@@ -1,0 +1,310 @@
+Concepts and Technologies for Multisensory and Interactive Simulation of Physical Objects - Application to Helios, a musical and visual artwork for the Helicanthe Platform of the ACROE
+Claude Cadoz
+p.18
+
+Perception of Mechanical Sounds Inherent to Expressive Gestures of a NAO Robot - Implications for Movement Sonification of Humanoids
+Emma Frid, Roberto Bresin, Simon Alexandersson
+p.43
+
+Stream Segregation: Utilizing Harmonic Variance in Auditory Graphs
+Joe Fitzpatrick, Flaithri Neff
+p.52
+
+CrestMusePEDB 2nd EDITION: MUSIC PERFORMANCE DATABASE WITH PHRASE INFORMATION
+Mitsuyo Hashida, Eita Nakamura, Haruhiro Katayose
+p.60
+
+Crossing Phrase Boundaries in Music
+Zuzana Cenkerova, Martin Hartmann, Petri Toiviainen
+p.66
+
+Perceiving Agent Collaborative Sonic Exploration in Interactive Reinforcement Learning
+Hugo Scurto, Frédéric Bevilacqua, Baptiste Caramiaux
+p.72
+
+Evidence of Lateralization Cues in Grand and Upright Piano Sounds
+Federico Fontana, Federico Avanzini, Stefano Papetti
+p.80
+
+Virtual Reality Exploration with Different Head-Related Transfer Functions
+Erik Sikström, Michele Geronazzo, Jari Kleimola, Federico Avanzini, Amalia de Götzen, Stefania Serafin
+p.85
+
+A system for spacial audio using synchronized mobile devices
+Jan-Torsten Milde
+p.93
+
+Time lapse video sonification; watching and listening to events unfolding
+Xenofon Karakonstantis, Konstantinos Bakogiannis, George Cambourakis, Anastasia Georgaki
+p.97
+
+Evoking Places from Spaces: The application of Multimodal Narrative Techniques in the Creation of “U - Modified”
+Gareth W. Young, Siobhán Mannion, Sara Wentworth
+p.103
+
+Towards Creating an Augmented Handpan using Leap Motion
+Christine Steinmeier, Dominic Becking
+p.108
+
+Inside the intimate zone: The case of aural micro-space in multichannel compositional practice
+Nikos Stavropoulos
+p.113
+
+Teaching Programming in Secondary Education through Sound
+Theofani Sklirou, Areti Andreopoulou, Anastasia Georgaki
+p.118
+
+NordicSMC: a Nordic University Hub on Sound and Music Computing
+Stefania Serafin, Sofia Dahl, Roberto Bresin Alexander Refsum Jensenius, Runar Unnthorsson, Vesa Valimaki
+p.124
+
+Electroacoustic music composition in the Music School of Nicosia
+Nasia Therapontos, Dimitrios Savva
+p.129
+
+Microphone-based Electronic Wind Instrument by Feature Extraction From Breath Signals
+Francesco Bigoni, Pelle Juul Christensen, Rasmus Eklund, Javier Molina Garcia, Cumhur Erkut
+p.134
+
+From my Pen to your Ears: Automatic Production of Radio Plays from Unstructured Story Text
+Emmanouil Theofanis Chourdakis, Joshua D. Reiss
+p.142
+
+Improving the Instrumental Learning Experience through Complexity Management
+Laurel Pardue, Andrew McPherson, Dan Overholt
+p.150
+
+Fiddl: Evaluation of a Smartphone Based Application Designed for a Music Workshop for Children
+Gergely Csapo, Jonas Holfelt , Peter Bruun, Stefania Serafin
+p.158
+
+A Portable Impulse Response Measurement System
+Elliot K. Canfield-Dafilou, Eoin Callery, Christopher Jette
+p.166
+
+Acquisition of Violin Instrumental Gestures Using an Infrared Depth Camera
+Zacharias Vamvakousis, Alfonso Perez Carrillo, Rafael Ramirez
+p.171
+
+Simulating the Acoustic Environment of Two Historical Viennese Theaters
+Brandon Westergaard, Timothy Hsu
+p.177
+
+A new implementation of Spat in Max
+Thibaut Carpentier
+p.184
+
+Navigate as a Bat. Real-Time Echolocation System in Virtual Reality
+Anastassia Andreasen, Jelisaveta Zovnercuka, Kristians Konovalovs, Michele Geronazzo, Stefania Serafin, Razvan Paisa
+p.192
+
+Interactive Exploration of Musical Space with Parametric t-SNE
+Matteo Lionello, Hendrik Purwins, Luca Pietrogrande, Mohamed Abou-Zleikha
+p.200
+
+You Are Here: Sonic Crossings and Time Indeterminacy within the Buffer Zone
+Oswaldo Emiddio Vasquez Hadjilyra
+p.208
+
+An Xception Residual Recurrent Neural Network for Audio Event Detection and Tagging
+Tomas Gajarsky, Hendrik Purwins
+p.210
+
+#nowplaying-RS: A New Benchmark Dataset for Building Context-Aware Music Recommender Systems
+Asmita Poddar, Eva Zangerle, Yi-Hsuan Yang
+p.217
+
+Toward a Web of Audio Things
+Benjamin Matuszewski, Frédéric Bevilacqua
+p.225
+
+Analyzing and Classifying Guitarists from Rock Guitar Solo Tablature
+Orchisama Das, Blair Kaneshiro, Tom Collins
+p.232
+
+Recreating an instrument inspired by the glass harmonica using fabrication techniques and physical models
+Razvan Paiza, Stefania Serafin
+p.239
+
+Encoding Byzantine Music Notation (Ca. 1600-1814)
+Nick Bouris, Achilleas Chaldaeakes, Anastasia Georgaki
+p.243
+
+Makam Recognition Using Extended Pitch Distribution Features and Multi-Layer Perceptrons
+Furkan Yesiler, Baris Bozkurt, Xavier Serra
+p.249
+
+Formalizing Schoenberg’s Fundamentals of Musical Composition through Petri Nets
+Adriano Baratè, Davide Andrea Mauro, Goffredo Haus, Luca Andrea Ludovico
+p.254
+
+A Heuristic Algorithm for DJ Cue Point Estimation
+Diemo Schwarz, Daniel Schindler, Severino Spadavecchia
+p.259
+
+A Simple Fusion of Deep and Shallow Learning for Acoustic Scene Classification
+Eduardo Fonseca, Rong Gong, Xavier Serra
+p.265
+
+Relative DTW Embedding for Binary Classification of Audio Data
+Marcelo Queiroz, Guilherme Jun Yoshimura
+p.273
+
+Training Deep Convolutional Networks with Unlimited Synthesis of Musical Examples for Multiple Instrument Recognition
+Rameel Sethi, Noah Weninger, Abram Hindle, Vadim Bulitko, Michael Frishkopf
+p.281
+
+Soundscape Emotion Recognition via Deep Learning
+Jianyu Fan, Fred Tung, William Li, Philippe Pasquier
+p.289
+
+Quantitative Analysis of the Impact of Mixing on Perceived Emotion of Soundscape Recordings
+Jianyu Fan, Miles Thorogood, Kıvanç Tatar, Philippe Pasquier
+p.295
+
+Design and Interaction of 3D Virtual Music Instruments for STEAM Education Using Web Technologies
+Kosmas Kritsis, Aggelos Gkiokas, Quentin Lamerand, Robert Piéchaud, Carlos Acosta, Maximos Kaliakatsos-Papakostas, Vassilis Katsouros
+p.301
+
+Stability, Reliability, Compatibility: Reviewing 40 Years of DMI Design
+John Sullivan, Marcelo M. Wanderley
+p.308
+
+Real-time Bowed String Feature Extraction for Performance Applications
+Kurijn Buys, Andrew McPherson
+p.316
+
+Dervish Sound Dress; a Development of a Musical Interface Garment which explores Wearable Technology using Sound and Haptic Feedback for Performance and Interaction
+Eduardo Miranda, Hedy Hurban, Edward Braund
+p.324
+
+Deployment of LSTMs for Real-Time Hand Gesture Interaction of 3D Virtual Music Instruments with a Leap Motion Sensor
+Kosmas Kritsis, Aggelos Gkiokas, Maximos Kaliakatsos-Papakostas, Vassilis Katsouros, Aggelos Pikrakis
+p.331
+
+An Expressive Multidimensional Physical Modelling Percussion Instrument
+Ohejl Zabetian , Pablo Delgado, Sofia Dahl, Stefania Serafin
+p.339
+
+A Machine Learning Approach to Violin Vibrato Modelling in Audio Performances and a Didactic Application for Mobile Devices
+Matteo Lionello, Rafael Ramirez
+p.347
+
+A comparative study on filtering and classification of bird songs
+Nicolas Figueiredo, Felipe Felix, Carolina Brum Medeiros, Marcelo Queiroz
+p.354
+
+A Machine Learning Approach to Classification of Phonation Modes in Singing
+Furkan Yesiler, Rafael Ramirez
+p.362
+
+AI Encountering Interactive Systems: A Deep Learning Reinforced Musical Composition Model
+Ke Ma, Tian Xia
+p.368
+
+Modeling Carnatic Rhythm Generation: a Data Driven Approach Based on Rhythmic Analysis
+Carlos Guedes, Konstantinos Trochidis, Akshay Anantapadmanabhan
+p.376
+
+Affordances of Vibrational Excitation for Music Composition and Performance
+Tychonas Michailidis, Jason Hockman
+p.382
+
+Approaches and Assessment of Drama Prosodic Tools in Live Performance
+George Petras, Panagiotis Tsagkarakis, Anastasia Georgaki
+p.388
+
+Nawba Recognition for Arab-andalusian Music Using Templates From Music Scores
+Niccolò Pretto, Barıs Bozkurt, Rafael Caro Repetto, Xavier Serra
+p.394
+
+Blender2faust: from drawn 3d objects to physically based sound models
+Stefania Serafin, Romain Michon, Smilen Dimitrov
+p.400
+
+A Collaborative System for Composing Music via Motion Using a Kinect Sensor and Skeletal Data
+Christos Garoufis, Athanasia Zlatintsi, Petros Maragos
+p.404
+
+Block-based Scheduling Through Interrupts And Intervention
+Bjarni Gunnarsson
+p.412
+
+SketchyTuna: Exploring A Design For Screenless Creativity
+Nikolaj Møller, Dan Overholt, Vanessa Carpenter, Antonio Stella, Baldur Kampmann, Martin Minovski, Martin Maunsbach
+p.419
+
+Haptic Interaction with Guitar and Bass Virtual Strings
+Andrea Passalenti, Federico Fontana
+p.427
+
+UPISketch : The Renewal of an Old Idea
+Rodolphe Bourotte
+p.433
+
+Frequency Control of Nonlinear Oscillators – Strategies for Realtime Sound Synthesis
+Martin Neukom
+p.436
+
+Algorithms for Guitar-Driven Synthesis: Application to an Augmented Guitar
+Fabián Esqueda, Otso Lähdeoja, Vesa Valimaki
+p.444
+
+Ko2 - Distributed Music Systems With O2 and Kronos
+Vesa Norilo, Roger Dannenberg
+p.452
+
+Data Transmission as Musical Performance
+Simon Blackmore
+p.457
+
+GTTM Database and Manual Time-span Tree Generation Tool
+Masatoshi Hamanaka, Keiji Hirata, Satoshi Tojo
+p.462
+
+CTcomposer: A Music Composition Interface Considering Intra-Composer Consistency and Musical Typicality
+Hiromi Nakamura, Tomoyasu Nakano, Satoru Fukayama, Masataka Goto
+p.468
+
+Mapping Pitch Classes And Sound Objects: A Bridge Between Klumpenhouwer Networks And Schaeffer’s TARTYP
+Israel Neuman
+p.476
+
+Unit-generator Graph as a Generator of Lazily Evaluated Audio-vector Trees
+Hiroki Nishino
+p.484
+
+Metric Interweaving in Networked Dance and Music Performance
+Ioannis Zannos, Martin Carlé
+p.492
+
+The BodyHarp: Designing the Intersection Between the Instrument and the Body
+Doga Buse Cavdir, Romain Michon, Ge Wang
+p.498
+
+Sonic Crossings with Audience Participation: The Embodied iSound Performance
+Marcelo Gimenes
+p.504
+
+HamoKara: A System for Practice of Backing Vocals for Karaoke
+Mina Shiraishi, Kozue Ogasawara, Tetsuro Kitahara
+p.511
+
+3D Printing and Physical Modeling of Musical Instruments: Casting the Net
+Romain Michon, John Granzow
+p.519
+
+Sonoids: Interactive Sound Synthesis Driven by Emergent Social Behaviour in the Sonic Domain
+Andreas Apergis, Andreas Floros, Maximos Kaliakatsos-Papakostas
+p.527
+
+Towards Flexible Audio Processing
+Thilo Koch, Marcelo Queiroz
+p.535
+
+Strumming on an Acoustic Nylon Guitar: Microtiming, Beat Control and Rhythmic Expression in Three Different Accompaniment Patterns
+Sérgio Freire, Augusto Armondes, João Viana, Rubens Silva
+p.543
+
+
+
